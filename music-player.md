@@ -35,7 +35,18 @@ when I'm just building this thing (and that's why I'm choosing a documented appr
   now, how to translate that idea into a social thing, where others can join in, I'm not totally sure, but it seems that's going to be a thing.
 the way I want to do it is just to have a git repository with all 
 
-hey, I just noticed I can probably just reuse a lot of that `zx` code there; they've got a lot of the functionality that I want already built in. the next thing I'd like to do is to build a vue is my own terminal. that'd be dope -- just use an array for the lines that way I can modify/etc. the lines as they're output. that'd be cool
+hey, I just noticed I can probably just reuse a lot of that `zx` code there; they've got a lot of the functionality that I want already built in. the next thing I'd like to do is to build a vue is my own terminal. that'd be dope -- just use an array for the lines that way I can modify/etc. the lines as they're output. that'd be cool.
+
+I totally distracted myself there, cause what I want to do is to build a vue based webaudio thing where I can listen (and perceive the sound), cause I'm going to want to produce a lot of js based on some (now unknown) language where I produce js files which transforms that audio signal. it'd be cool to also think about doing them in webassembly as well, as I think it'd be cool to output the code in normal wasm as well (super futuristic thinking for now).
+  the idea is, to build a language that can "perceive" waves in audio, and then perform a sort of transformation on the signal. I'm *only* using it for audio, as I just want to make a cool song (one that repeats and I can listen to it over and over again), and then those transformations are what change the audio to accomplish (probably with mathematics) a new wavform, which is distinct from its original.
+  eventually, this format will become highly marketable, because one can imagine that this style of programming can be sponsored by musicians and djs all over the place to produce better more dynamic versions of their song/mix -- and the "remix" is a code, and so therefore expertise is generated and people can purchase/buy/trade/sell better remix versions of that audio (trafsormed by this language).
+    we'll design our own audio to such a precision that the "perfect" song can be created (some restrictions apply) and/or give it the ability to become dynamic, inputting and transforming signals from other sources like different physical sensors on the body, phone, microphone, camera, env, etc. (probably, because it's a bitmap, be aggregated and transformed first by shaders). audio in those spectrums will be visual, and then that visual data can then be used to transform the wav file (or whatever encoding builds the wav).
+  really what I want to build is a technology that uses the senses and not the brain (in the non-traditional sense); what I want to do is to *listen to the same audio* in new ways. this really came out of that one song <filteria - living with the lag> cause I just like hearing it that way,
+    it's kinda my theme song. the reason why I like sabotaging myself so much is because it's literally the *most novel experience* that one can possibly have. each time I "abort" m/ own thought by speaking it out or conjuring its feeling into my head while not working on it, I *force* an evolution on that desire. I *force* it to become something new and novvel in the sense that I had to discover it again.
+    the thrill of that rediscovery is acttually exhilerating.
+  so I want to add that to the repo as well.
+  
+    
 
 ## progress
 
@@ -43,7 +54,7 @@ hey, I just noticed I can probably just reuse a lot of that `zx` code there; the
   - https://github.com/google/zx
   - [oh, that's awesome](https://raw.githubusercontent.com/google/zx/main/docs/markdown.md)
 - get aimp settings out of disk
+- add the filteria - living with the lag original .ogg file into the repository
 - import a lot of zx functionality into `new-setup`, and compile files into their corresponding filename.```ext output
 - .gitignore to ignore everything *but* *.md files
 - build a terminal in vue with the commands that I run often.
-
