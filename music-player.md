@@ -45,8 +45,16 @@ I totally distracted myself there, cause what I want to do is to build a vue bas
     it's kinda my theme song. the reason why I like sabotaging myself so much is because it's literally the *most novel experience* that one can possibly have. each time I "abort" m/ own thought by speaking it out or conjuring its feeling into my head while not working on it, I *force* an evolution on that desire. I *force* it to become something new and novvel in the sense that I had to discover it again.
     the thrill of that rediscovery is acttually exhilerating.
   so I want to add that to the repo as well.
-  
-    
+so then the next thing is to load into webaudio that file...
+
+```init.js
+
+// init
+// https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API
+
+```
+
+omg, I totally forgot, I should then find a way to use the content aware code sections in vscode. that's probably important. maybe also, I'll want to convert this app into a dot-net code, complete with the browser and everything -- like a real application, and not a sort of web application. I'm sure there's a way to use the v8 jit or whatever for the asm code (again futuristic thinking).
 
 ## progress
 
@@ -55,6 +63,7 @@ I totally distracted myself there, cause what I want to do is to build a vue bas
   - [oh, that's awesome](https://raw.githubusercontent.com/google/zx/main/docs/markdown.md)
 - get aimp settings out of disk
 - add the filteria - living with the lag original .ogg file into the repository
+- load file into webaudio and start building the thing
 - import a lot of zx functionality into `new-setup`, and compile files into their corresponding filename.```ext output
-- .gitignore to ignore everything *but* *.md files
 - build a terminal in vue with the commands that I run often.
+- throw this code away
