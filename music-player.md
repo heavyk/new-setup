@@ -56,6 +56,12 @@ so then the next thing is to load into webaudio that file...
 
 omg, I totally forgot, I should then find a way to use the content aware code sections in vscode. that's probably important. maybe also, I'll want to convert this app into a dot-net code, complete with the browser and everything -- like a real application, and not a sort of web application. I'm sure there's a way to use the v8 jit or whatever for the asm code (again futuristic thinking).
 
+one of the things that I really want to be able to do is to build a number of commands out in a visual way,
+  because I hate all of the --this and --that and want to just adjust the option
+like imagine I'm turning a dial or something and I can just change the option like I would be able to on a hardware synth.
+  it'd be really cool to render these directly into the canvas element using the write line/pixel (or even shaders) that build up the settings list (and give a visual feedback to the option such that those (shaders?) can get inputs from other bitmap output sources)
+then, the obvious thing to do next is to string these commands together to perform larger tasks; for example, the very `built.md` will ensure all of the transformations on necessary files have been done (likely, some will be set to "run on demand", for only when the resource is needed)
+
 ## progress
 
 - js markdown. I remember that there was a thing that google had where there was a js and markdown thing
@@ -64,6 +70,8 @@ omg, I totally forgot, I should then find a way to use the content aware code se
 - get aimp settings out of disk
 - add the filteria - living with the lag original .ogg file into the repository
 - load file into webaudio and start building the thing
-- import a lot of zx functionality into `new-setup`, and compile files into their corresponding filename.```ext output
-- build a terminal in vue with the commands that I run often.
+- import a lot of zx functionality into `built.md`, to compile all .md files into their corresponding filename.```ext blocks
+- build a terminal in vue with the commands that I run often
+  - import all of my .bashrc stuff here (like exporting env vars and stuff)
+  - build a number of commands out in a visual way
 - throw this code away
