@@ -62,6 +62,15 @@ like imagine I'm turning a dial or something and I can just change the option li
   it'd be really cool to render these directly into the canvas element using the write line/pixel (or even shaders) that build up the settings list (and give a visual feedback to the option such that those (shaders?) can get inputs from other bitmap output sources)
 then, the obvious thing to do next is to string these commands together to perform larger tasks; for example, the very `built.md` will ensure all of the transformations on necessary files have been done (likely, some will be set to "run on demand", for only when the resource is needed)
 
+omg, another thing that's really annoying me is using git. it's quite difficult for me, so one of the main uses of the vue commands, is to build a new way to use git (one that features all of the commands that *I* use).
+  this is a really interesting thing about me (and possibly all humans), is that I like to see only the things that *I* want to see; until I have a need for a command I don't really want to see it.
+  like, I want to just start out with the basic commands (the stuff you need only to get started), then to begin to add to my interface the things that I'm actually doing (and easily delete/archive them if I don't want/need them).
+  so, for exaple in this case, if I can just run git commands like "rename branch" (just a button that turns into a textbox (I saw a vue example of it)) then I don't have to use the terminal. eventually, I want to get rid of the terminal entirely, getting feedback from the operations/systems  in a far more meaningful way that a line of text can convey (I'll consider that to be the "worst" result cause most of the stuff is unecessary info).
+  these sorts of notifications are important for the safety and well-maintained system; you want to know when things aren't behaving properly and to be able to process the failure and parform a reaction to that.
+    oh, that's an interesting monetisation goal there too because certain systems have to be run in a certain way, and so some companies will need to ensure that proper reactions are taken to the systems failures, and provide "official" and "trusted" reactions to the outputs.
+    entire server installations will become automated in this way, and those source files will be the "trade secrets" of all of these different service infrastrutures. those platforms' source will become a commodity, and almost certainly barganined for and acquired with a sort of crypto currency or something. gatta have the enterprise edition, ya' know.
+  so then we can imagine that each action produces a return code, where (0) returns the interface back to the home screen.
+
 ## progress
 
 - js markdown. I remember that there was a thing that google had where there was a js and markdown thing
@@ -74,4 +83,6 @@ then, the obvious thing to do next is to string these commands together to perfo
 - build a terminal in vue with the commands that I run often
   - import all of my .bashrc stuff here (like exporting env vars and stuff)
   - build a number of commands out in a visual way
+  - build out `sh.0.md` and `sh.md`, where the sh is the shell panel, and sh.0 is the return code successful for a command executed in the shell (0)
+    - this prompts me to consider that the unicode16 (W) style of format will want to be used, because I'm going to want to put actual expressions between the separators, to allow for `sh.>0.md` and even more complex stuff than that; all files qualities will be separated by a ., and they'll include binary data, to emoticons, to text, number and math function.
 - throw this code away
