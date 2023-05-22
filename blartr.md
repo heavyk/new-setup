@@ -77,4 +77,15 @@ I'd like to talk about some features that I thik are important:
 - I want to be able to denounce messages and concepts that I *don't like* and say that I don't like the message conveyed in the concept -- and they can swich over to another moral concept, or they can find the pure ones (just desire for example, rendering of the same concept). every thing can be explained in form of desire, and those renderings of the concept prolly won't catch on for a time because *people* tend to like to focus on the details of the problem completely overlooking the fact that all humans (but not always the robots), are doing what they're doing because they think that by making the action, they'll get a positive feedback from their brain/circuit, or not.
   good catch: I don't do what I want for a positive feedback, and instead always expect the worst and hold myself away from it until it's inevitable. things have a way of falling into place, so I just feel the way I want to feel, not what the circuit/emotion/perception is "telling/obligating" me to do (the bible doesn't *tell* you anything: you read the situation and observe it from your perspective -- perception, emotion, etc. and then make a judgement on what it's "telling" you) -- and that "tell" us usually just a resonant idea with a mythology, symbol, or archetype that we've associated that concept to in our big-picture of reality. our entire reality is our UniVerse, and everything works together the way we see it; sometimes there are gaps, and sometimes it isn't.
 
+
+### 2023-05-21 21:17 - this seems good
+
+that's it; that's all I need to acknowledge, and then I can just let it happen, *if* in fact it's what's ending up happening.
+
+the thing that I really like about it is, that in a way this whole experience will be "programming" my own demiurge for myself. I know there's nothing that can defeat me, and it's all attraction, so it just takes a while for me to zone in on that zero-point and stay there. that's kinda what I do all day, and the more in the centre that I am, the less wobbly everything is.
+  make no mistake of it: in a few years/decades/centuries we're going to all be plagued with boredom and want to find a new challenge (I know I will, at least). prove me wrong? (I always assume the worst)
+
+slow, smoothe and effortless,-- like a transition.
+  interesting. it's easy to make a fast and effortless transition; but, it's (imo ) art when a slow, smoothe and effortless transition can be made; that smoothe transition happens over a longer period of time is also (imo ) very pleasurable.
+
 ### divided in time
