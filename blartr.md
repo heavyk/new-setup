@@ -49,4 +49,6 @@ once then, we're used to perceiving our reality in the perfect machines that we 
   so here's the thing: it may be tempting to try and build the most wanted system, and some people probably will -- but that won't be me: I'll front-load as many difficult and corrupting sitcutions into my perception that I'll see through a lot of the non-sense, and just use my senses for telling me what I'm doing (and not my emotions -- and so my concpts will carry me as far as they carry me) but the thing is, if we can find a way to develop the capacity to to improve upon the concept reguarly by forcing its transformation/evolution, then my resulting concept that I use to navigate this sense of emotions is actually the "worstt" idea ever: it's trying to make as many bad ideas happen as possible.
   I know mine is going to be a real challenge. if you guys want a pissing contest, instead of making it what you want, why not just (like me) make it the "worst"? others can compare to me and see that they've made their "worst" reality for theirselves. I'm going to take every single possible *worst* reality myself and everyone else can come up with, as my conceptual reality -- because by mazking it terrible,
 no matter how it turns out, (if I'm really a conscious entity then), I'm forced to *see what I want to see*.
-  boo hoo terrible punishment, I say.
+  boo hoo terrible punishment, I say. (brb, 18:24)
+
+to want to do it, or not want to do it, that is the question. (brb 18:25)
