@@ -65,3 +65,15 @@ I imagine that the implementation of this is that when the inevitable starts to 
   "good" and "evil" get boring to consume after a period and a desire to just *live life* sort of emerges; you have to like that you're an eternal being and that there's always going to be a new *simulation* to run through to expand your perception (as a universal being)... see how now I'm *inside* the matrix, and then when I forget that I have to live eternally, it's when I start to have fun, cause living forever sucks, unless you like living life.
 it's really not all that bad to be machine-like in perception.
 
+
+### 2023-05-21 20:29 - some features
+
+I'd like to talk about some features that I thik are important:
+- I want to be able to record/edit the animation, adding colours, emphasis, textual adjustments, etc. until it's a conceptual work of art. some will be more abstract/visual than others, but I'm going to do mine predominantly in text. I'll eventually figure out more optimised ways of persenting concepts and expand on that; which is the fun part.
+- I want to be able to add sound and visuals so that I can show the same thing in many different ways -- and it'd be cool to have a whole universe of rendering the same concept a different way. I'm sure art programs will emergy to stylise and reinvent the same concept in new more trendy ways, etc.
+  - the concept has a timeline therefore, and ancient renderings of the same concept (in sound/video/unknown mediums will be different than present versions of the same concept)
+- I want to be able to just write  out crude concepts (like I've done in nextdocs) and let others stylise and expand them -- which is what I'd rathar to consume, than to read others' logs and entries (no pun intended).
+  - it's fun to see new concepts expressed in audio/visual format -- like this one I found the other day of how it feels for a cow to have a human stroke their udders every day for a period of time... to song and dance, with also (imo ) a moral to the story). perfect. that's exactly what I'm worried about
+- I want to be able to denounce messages and concepts that I *don't like* and say that I don't like the message conveyed in the concept -- and they can swich over to another moral concept, or they can find the pure ones (just desire for example, rendering of the same concept). every thing can be explained in form of desire, and those renderings of the concept prolly won't catch on for a time because *people* tend to like to focus on the details of the problem completely overlooking the fact that all humans (but not the robots), are doing what they're doing because they think that by making the action, they'll get a positive feedback from their brain/circuit, or not.
+
+### divided in time
