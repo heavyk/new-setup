@@ -10,3 +10,16 @@ instead, when those two people get together, there's an impact; and that impact 
   and that "back EMF" felt at a later time is what I think is the leading cause for relationship issues: simply, they're paying for not getting in harmony with all of the unattractive things they hadn't noticed before the relatinship started.
 therefore, I postulate that there is a direct correlation between how the "back EMF" is felt from the other person, strongly relates to the quality of their reactions; because once the relationship starts, it's all reactions; (contd. 13:58) even when you try to steer their car.
   so, if you want to have an intimate relationship with someone, get good at only reacting -- and the better you react to them, the closer you can get without too much blowback from each impact.
+
+
+### 2023-05-23 14:45 - whos in the [driver] seat
+
+imagine how this idea of narration looks to me (which, to give an example, I'll do next): I want to be in the driver's seat, and dictate the quality of my experience. so, for example: *instead of what LOA would give*, I want it to be something else; something I *didn't* deserve.
+now, imagine for a 
+
+
+
+
+
+
+warrior, dominance, vs a narrated battle victory/loss
