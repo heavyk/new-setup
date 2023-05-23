@@ -17,9 +17,11 @@ therefore, I postulate that there is a direct correlation between how the "back 
 imagine how this idea of narration looks to me (which, to give an example, I'll do next): I want to be in the driver's seat, and dictate the quality of my experience. so, for example: *instead of what LOA would give*, I want it to be something else; something I *didn't* deserve.
 now, imagine for a 
 
+warrior, dominance, vs a narrated battle victory/loss (brb)
 
 
 
 
 
-warrior, dominance, vs a narrated battle victory/loss
+
+### warrior, dominance, vs a narrated battle victory/loss

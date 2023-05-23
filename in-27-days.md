@@ -38,3 +38,12 @@ anyway coming up soon, is the narration, which I believe will give an unfortunat
 cause, you know I was just having a bit of fun there... I'm obviously going to upload it and let them deal with the censorship, cause that's just not my bag; however, (being a bit of a demiurge myself) the topic is extremely exciting to me, as I love thinking up worse and worse ways for how to take advantage or give superiority to people,because the advantage is completely an illusion
   because all advantage is also disadvantage in/of another/different thing; if those things are inconseqential, then no big deal, but if they're disadvantages,-- for example "inability to perceive something" (like having an imagination gives you),-- are really/actually a *really big* disadvantage to being a "successs" in that society, then it *is a big deal*, and you *gatta find a way*, anyway (period).
 so really, once survival becomes a number one priority, we stop being racist (because there's always an ill-perceived advantage) (brb)
+
+or/and, we could take the "red-pill"... (brb)
+
+
+
+
+
+
+### first thing I would want
