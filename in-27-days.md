@@ -47,7 +47,11 @@ LOA states that anyone fearing something, must eventually be given their desire,
 
 I'm thinking about the idea of starting to implement line numbers around along with cryptographic hashes strewn about so that one can determine if a copy is (inauthentic/) authentic, meaning that counterfiets (for those with really good hacking skills and a way to build a good narrative) are completely possible: copies of my "latter teachings" (a sortt of apophrica(?), a sort of illusioned teachings) of a derivative nature (a counterfiet).
 
-therefore, I can continue to publish without any difficulty, and as my cOncepts get more advanced and interlinked, it'll be more and more difficult to make counterfiets, and so the complexity of the counterfiet concept is limited by the amount of connections it can make between concepts (like, has to coordinate both line numbers (or any other meta element) and hash+commit_hash+content_has), and that enables "authentic" derivative works. see how the problem is the solution? also, notice how much it corroborates with bassanio's reception of counterfit portia; and who's going to have access to the full narrattive? the racists.
+therefore, I can continue to publish without any difficulty, and as my cOncepts get more advanced and interlinked, it'll be more and more difficult to make counterfiets, and so the complexity of the counterfiet concept is limited by the amount of connections it can make between concepts (like, has to coordinate both line numbers (or any other meta element) and hash+commit_hash+content_has), and that enables "authentic" derivative works. see how the problem is the solution? also, notice how much it corroborates with bassanio's reception of counterfit portia; and who's going to have access to the full narrattive? the racists (github+nosebook+isps).
+
+I'll try to figure out how to add secondry censors in there; like, what if we were to also publish to: like gitlab, facebook, youtube, g+, vk, etc. facebook., others.
+
+however it all works out, the core of the censors will be (ultimately) nosebook+isps -- as they control the transmission mediums. we could maybe include a word of mouth, narrative type implementation kind of like homer or shakespere was, and that'd be fun for someone to figure out wth it all means, and connect a *different* narrative alttogetgher, ((like I've done)).
 
 
 
