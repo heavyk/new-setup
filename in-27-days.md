@@ -41,7 +41,13 @@ so really, once survival becomes a number one priority, we stop being racist (be
 
 or/and, we could take the "red-pill"... (brb)
 
+#### 2023-05-23 17:27 - all those who fear censorship will receive it
 
+LOA states that anyone fearing something, must eventually be given their desire, which then causes them to attract censorship, which is ultimately tto figure it our for theirselves.
+
+I'm thinking about the idea of starting to implement line numbers around along with cryptographic hashes strewn about so that one can determine if a copy is (inauthentic/) authentic, meaning that counterfiets (for those with really good hacking skills and a way to build a good narrative) are completely possible: copies of my "latter teachings" (a sortt of apophrica(?), a sort of illusioned teachings) of a derivative nature (a counterfiet).
+
+therefore, I can continue to publish without any difficulty, and as my cOncepts get more advanced and interlinked, it'll be more and more difficult to make counterfiets, and so the complexity of the counterfiet concept is limited by the amount of connections it can make between concepts (like, has to coordinate both line numbers (or any other meta element) and hash+commit_hash+content_has), and that enables "authentic" derivative works. see how the problem is the solution? also, notice how much it corroborates with bassanio's reception of counterfit portia; and who's going to have access to the full narrattive? the racists.
 
 
 
