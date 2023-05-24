@@ -52,9 +52,11 @@ therefore, I can continue to publish without any difficulty, and as my cOncepts 
 I'll try to figure out how to add secondry censors in there; like, what if we were to also publish to: like gitlab, facebook, youtube, g+, vk, etc. facebook., others.
 
 however it all works out, the core of the censors will be (ultimately) nosebook+isps -- as they control the transmission mediums. we could maybe include a word of mouth, narrative type implementation kind of like homer or shakespere was, and that'd be fun for someone to figure out wth it all means, and connect the symbols in the narrative elements, in a *different* (leading to diversity) way alttogetgher, ((like I've done)). censorship, is in effect, the "worst" manifestation.
-let's see if we can make a worse one, though... (brb)
+let's see if we can make a worse one, though... (brb 18:36) please see...
+
+# [the-message](/the-message.md)
 
 
 
-
+### let's see if we can make a worse one, though...
 ### first thing I would want
