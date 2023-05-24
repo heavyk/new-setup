@@ -99,7 +99,7 @@ what I do is, I start to do a whole bunch of text transformations adding hashes 
       that's probably wrong.
       etc.
     didn't/did care what anyone thinks of him,
-    di[dn't] care of what was seen in his imagination,
+    di[dn't]+ care of what was seen in his imagination,
     etc. (plus many more)
   the fun thing about looking at some past memories after I've come so far, those huge and dramatic episodes from the past look childish, and from an archaic mindset.
     that archaic mindset is my ancestry though: it was the first successful species to be able to fully capture a signal of maximum novelty, and be able to run with it.
