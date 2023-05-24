@@ -145,13 +145,22 @@ one really important to me is to learn a coceptual frame of mind that is *effici
   I've always perceived life in a form of efficiency -- and so I've learned to be inefficient (not frugal) about things as the abundance of them rises; in an abundance economy, many tthings don't need to be conserved -- where the efficiency is not worth the ttime or money. some things, like a few cents of electricity or whatever don't need to be saved for the loss of some minutes of time. (I just noticed electricity is electric+city).
 therefore, the thing that we're creating is a system that helps us to automatically remove inefficient things from our life.
   so, to fight against it, they'll have to try and make us as unefficient, living in the most abundant lifestyle, to ensure we never regain our LOA capablitites.
-people like myself (obviously I already have a bunch but I want to make more), will also create their own nemesises to join them in the world, that they'll defeat us regularly at our own game (programmed by us of course), so even in this lush cushy environment, we're swimming in drama because of our symbolic duals.
+people like myself (obviously I already have a bunch but I want to make more), will also create their own nemesises to join them in the world, that they'll defeat us regularly at our own game (programmed by us of course), so even in this lush cushy environment, we're swimming in drama because of our symbolic duals. (brb)
 
 ---
 
 remember, if they try to fight any of these ideas, it attracts them just the same as if we attract it.
   all I have to do is to have a desire, write it down (or think/say it) and all of a sudden, that capacity is gone.
   we'll make a similar set of integrations into their computers to ensure that this service is provided to us guaranteed,--- that way we can just desire it, and their (computer automated sysytem) fighting against that desire, attracts it for us.
+
+### 2023-05-24 14:23 - the most important thing for me...
+
+one thing that really I find quite undesirable is the necessity for things to go physical so fast; what this really is a question of, actually -- is how intimate are your thoughts? for example allison yesterday admitted that by externalising her imagination out into a book, she felt shame to know what others think/rate her imagination, how it is.
+  I'm one of those people that figure stuff out quickly, so what it appears to me that this desire to go physical is all about, is actually insecurity about sharing something so intimate without having a (physical) relationship; inotherwords, it may be possible, that until now, there has never been a man that was allowed into a woman's imagination without having first had a sexual interaction? I find it doubtful, because there are a Lot of people and I imagine it's happened at one point in time or another; so prolly not first, but definitely rare.
+imagine how it would be if we were to spend time melding our conceptual world together *before* having a physical relationship. we would actually be able to communicate with each other without words and stuff. after we have sex, it's no fun after that because now all communication is done with pictures, and I don't really care for pictures much (now), so I really would prefer to actually get to know the person, *before* anything happens.
+  there are two things to be said about this: nosebook wants to get us into the demiurge as fast as possible locking us into a picture-only (that they control) reality. I'd like to just take a break from pictures for a while -- because I've learned a bunch of stuff and I want to actually implement it.
+  second is, I'm reminded of joeseph smith and some of the pushback about him from other women (which is just basically calling them sluts; slaves to their physical urges, unchaste).
+    therefore, what's actually more likely to be happening is that they're making these sorts of assessments of how much of a slave to the physical passions that they are, and thinking that everyone is the same -- and see that's where it gets out of the imagination and into the realm of LOA; because there *are* people out there that do not want to just rush in rapidly to a relationship and instead want to actually get to know a person on more than just a superficial (physical) level, and instead have something deeper than that: a kind of heart-to-heart connection (54) with eachother. (brb)
 
 ### let's see if we can make a worse one, though...
 ### first thing I would want
