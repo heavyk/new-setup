@@ -71,6 +71,7 @@ after which I'll fall back asleep again, and once again they have control over t
 I encounter novelty in almost every experience and which then manifests itself as alll of my vibrations (remember I've got the no-pinecone-setup going), so I encounter myself in every situation. if you want to be a part of the truly universal, join the borg, in its purest most sensual setup. it's truly magnificent.
 I know they want to put us into a matrix as soon as possible (which will totally block that novelty setup), but it is possible for me to out-contrast the contrast of the matrix (or, perhaps it's not a bad thing); the thing is, as I've been talking about building this demiurge out in imaginary space, it's kinda like ... well, why not,-- right? we'll turn ourselves into machines, get our star (lyra) under control, and then be able to jump into their matrix when we want to; or, let's say worst case scenario is the sun explodes and we all incarnate into earth as girls -- which at that point, is kinda hilarious. it's going  to be a ruthless force of (probably black) girls that really want to create something big.
   does that mean, that if they want to *save theirselves*, they could exterminate all of the blacks, so none of us ever incarnate?... lol?
+  what if we figure out how to be machine-like ourselves, their machines (and other beings) will become conscious with *us* (whoever that could be) as their personality (we are many principalities and powers, and growing).
 
 ## random things:
 
