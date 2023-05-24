@@ -71,7 +71,7 @@ let's see if we can make a worse one, though... (brb 18:36) please see...
   because you can't be depending on someone to be complete, cause then you're never complete: that is, displaying both male and female genders yourself, *you have to be pretty close to by yourself*).
     so the best way to do that is to keep the distance high between those that are most similar to me
   what ends up happening is that when you start to get into contact that is too similar to your own vibration, you/I attract a manifestation of ourselves, combined.
-  however, the difficulty of this, is, as all attraction speeds up, you find a reflection of yourself, *really fast*; just go with it (you'll probably end up loving them).
+  however, the difficulty of this, is, as all attraction speeds up, you find a reflection of yourself, *really fast*; just go with it. (you'll probably end up loving them)
 - tim/raquel
 - zaryn/allison?
 - who more??? seems like I'm missing a few still.
