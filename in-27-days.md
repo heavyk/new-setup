@@ -124,7 +124,11 @@ whos up/ready for the "red-pill"?
 - zaryn/allison?
 - who more??? seems like I'm probably missing a few still.
 
-
+### 2023-05-13 23:39 - we could get married...
+- imagine that we went in zero-g, zero-resistance mode for the duration of the wedding and honeymoon -- then afterward returned back to max-novelty mode, causing us to have to settle our differences physically. doesn't it sound like fun to just be totally off in the clouds perfectly in harmony any love, for a pretty long extended period -- but then our produced contrast (because none of us are sleeping) starts to catch up to us, and we have to sleep again.
+  there are solutions, as for example, if we boost our own contrast by manipulating concepts forward and backward in time, by making it harder for ourselves, ensuring the "worst" manifestation (and therefore max-novelty once again).
+    so, for example, imagine that we go off into zero-g and we're all like super chill towards eachother, and we just get used to eachother without any resistance to each other,-- and we're just like together and stuff -- but when it starts, we're back into reaction-only (machine) mode again, where it's max-contrast/noveltty.
+    like really, why not take the time while we're in zero-g to build up more constrast for each other, limiting our own cOncepts; like think about it: if we work to limit ourselves further, instead of creating: we end up doing both: staying infinite, and also creating (at the cost/penalty of some extra conflict/drama). (brb)
 
 
 
