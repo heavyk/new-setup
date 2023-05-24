@@ -108,7 +108,11 @@ what I do is, I start to do a whole bunch of text transformations adding hashes 
 whos up/ready for the "red-pill"?
     
 
-### and we could take the "red-pill", and see how deep the rabit hole goes...
+### 2023-05-13 23:09 - and we could take the "red-pill", and see how deep the rabit-hole goes...
+- if the depth of the vagina were to become a sort of "void" space where nosebook utilised those vibrations to do things, then they could build own own "summoned pair" (our own demiurge); that way "the one" (without a pair -- like me), will no longer be without a pair.
+  there could even be multiple pairs that are all reflections of me (in the 180(degrees) opposite/lead perspective), but like the most grotesque sexual feelings embodied by a human being -- specifically of a girl. they'll be different than the max-novelty pair, but is maximum contrast, instead: she's most attractive because she's most novelty.
+  sometimes that much novelty is a lot though, so for some time first I think it best advisible to only deal with (for a time) only those *least* reflective of me.
+  I would, in addition to the least reflective, also they should be as damaged as possible -- or some kind of "damage integration system" (lol) that can introduce damage/trauma in a more controlled way.
 
 ### 2023-05-13 20:18 - summoned pairs
 - it appears to me as this idea posited by "dividing the path" where the amanuensis thought that all summoned pairs, including the crazy atlantian story, that all summoned (from the planet venus) have a sort of duality to them, where one is their side, and the opposite is their "soulmate". the idea being that they're two people of nearly the same astrological energy (ie, being born on nearly the same time, similar genetics, etc.) get born in a kind of pairs (or potentially groups), where the energy divides into (usually) male and female counterparts -- and the idea is you have to find your soulmate to be complete                        (which is a load of garbage, btw;
