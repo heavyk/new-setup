@@ -56,6 +56,14 @@ let's see if we can make a worse one, though... (brb 18:36) please see...
 
 # [the-message](/the-message.md)
 
+## some things to think about...
+
+### 2023-05-23 20:12 - the number 1008 is really cool...
+- it appears as: one, eight, 8,-- where first eight is different in value from the  second 8;
+  could be years, m6nths, days, whatever.
+
+
+
 
 
 ### let's see if we can make a worse one, though...
