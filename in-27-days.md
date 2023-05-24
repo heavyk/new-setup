@@ -74,7 +74,7 @@ let's see if we can make a worse one, though... (brb 18:36) please see...
   however, the difficulty of this, is, as all attraction speeds up, you find a reflection of yourself, *really fast*; just go with it. (you'll probably end up loving them)
 - tim/raquel
 - zaryn/allison?
-- who more??? seems like I'm missing a few still.
+- who more??? seems like I'm probably missing a few still.
 
 
 
