@@ -160,7 +160,38 @@ one thing that really I find quite undesirable is the necessity for things to go
 imagine how it would be if we were to spend time melding our conceptual world together *before* having a physical relationship. we would actually be able to communicate with each other without words and stuff. after we have sex, it's no fun after that because now all communication is done with pictures, and I don't really care for pictures much (now), so I really would prefer to actually get to know the person, *before* anything happens.
   there are two things to be said about this: nosebook wants to get us into the demiurge as fast as possible locking us into a picture-only (that they control) reality. I'd like to just take a break from pictures for a while -- because I've learned a bunch of stuff and I want to actually implement it.
   second is, I'm reminded of joeseph smith and some of the pushback about him from other women (which is just basically calling them sluts; slaves to their physical urges, unchaste).
-    therefore, what's actually more likely to be happening is that they're making these sorts of assessments of how much of a slave to the physical passions that they are, and thinking that everyone is the same -- and see that's where it gets out of the imagination and into the realm of LOA; because there *are* people out there that do not want to just rush in rapidly to a relationship and instead want to actually get to know a person on more than just a superficial (physical) level, and instead have something deeper than that: a kind of heart-to-heart connection (54) with eachother. (brb)
+    therefore, what's actually more likely to be happening is that they're making these sorts of assessments of how much of a slave to the physical passions that they are, and thinking that everyone is the same -- and see that's where it gets out of the imagination and into the realm of LOA; because there *are* people out there that do not want to just rush in rapidly to a relationship and instead want to actually get to know a person on more than just a superficial (physical) level, and instead have something deeper than that: a kind of heart-to-heart connection (54) with eachother. (brb 14:48)
+
+### 2023-05-24 14:49 - everything we decide to do, will have to be narrated...
+
+so, let's say, for example that, somehow we decide to learn how to have a conceptual communication with each other,-- well,
+  for us, it's a heart-to-heart meld, but for them it'll be a brain-to-brain thing where they're sending conepts through the brain side of the heart (3rd ray) instead of the sensual, physical emotions from the heart side (5th ray).
+then what they'll need to do is they'll have to come up with a *reason* for why we're abstaining from sex after marriage; they'll make things "marriage rituals" and stuff like that,-- but imagine if we decide to start communicating with eachother in our h2h cconnection -- they'll have to simulate the same thing, going through their (narrative) network implementation, *to ensure everyone's on the same page*.
+  so imagine all of the things that we do with each other have now to be encoded into cultural and societal mythologies that they'll grow up on... essentially putting the *minimum requriements* of their demiurge to be a couterfiet of whatever we're doing.
+    as an example, imagine now everything as a series of actions:
+    1. we get married
+    2. we start to hang out with each other and start talking about things
+      too much social interaction though, and they''ve got a lot of dialoge to come up with;-- imagine that they're trying to do a sleazy porno inbetween unbelievable -- whatever we're doing (which is hopefully not a lot other than just having sex).
+    3. we start doing unbelievable things like moving things with our mind, flying, telepathic communication, etc. -- all *before* having sex!!!
+    4. finally, after completely vulcan mind melding eachother together, we have sex.
+    5. matrix revolutions.
+    huh, that's a basic 5-act structure. seems doable.
+  so what I like to do is to have a little fun with my thoughts and let them go a bit to try and figure out how nosebook is narrating my present -- cause
+    I'll be honest: I haven't a clue, or even care (I actually kinda like *not knowing* -- cause then I don't know what I need to live up to, so I'm freer to fail).
+  some things, I imagine from my point of view are just so wackadoodle, I'd feel pretty bad they're *deceiving* them with inaccurate informatcion (and I've corrected them with LOA explanations before) and they keep telling inaccurate narration of me.
+    my desire is to be portrayed in the clearest most transparent ways, and for someone who likes transparency, my concepts are not visible to someone that thinks they need to be hidden; which is why my story is delivered in narrative form, because they need something hidden from them to be able to perceive value in it (because all the best stuff is hidden (joeseph smith)).
+  sometimes I've entertained the thought of just producing utter nonsense,-- in fact, even yesterday I considered the idea -- and the funny thing is, it's heading that direction already, so there's nothing to be done. soon, we'll sound like space aliens and you too can dub in all the nonsense you want to pump out (
+    chirp, chirp, chi,
+    chirp, chirp, chi...: "no"
+    chirp, chirp, chirp, chi, chi,
+    chirp, chirp, chirp, chi, chi...: "no fun"
+    chirp, chirp, chi, chi, chi,
+    chirp, chirp, chi, chi, chi...: "never"
+    chirp chirp chirp,
+    chirp chirp chirp...: "NO"
+  ) and then it's all good, cause I can just do what I do (which is believing everything I write/say (cept sometimes I make mistakes -- but like less often all the time))
+
+I wonder if there's a correlation with doing something silly and discovering something new, btw...
 
 ### let's see if we can make a worse one, though...
 ### first thing I would want
