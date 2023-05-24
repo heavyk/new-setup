@@ -193,5 +193,32 @@ then what they'll need to do is they'll have to come up with a *reason* for why 
 
 I wonder if there's a correlation with doing something silly and discovering something new, btw...
 
+#### 2023-05-24 15:46 - redefine marriage
+
+I suppose we could call it that word, "marriage" -- which by definition, is an agreement -- is where we define what it is actually we're creating.
+  one has to think about this marriage, not just as a romantic engagement, because it's much more than that;
+    the way I see it now is that jaron will represent the narrated-imaginative side of things, where I think they'll start him out in poland, cause possibly that's where one of the chestahedron top three vertices that surround the north pole.
+    it is assumed (by me) that probably here or someplace near here will become the south pole, which will point straight toward the sun. our conceptual structure will transform the sunlight in a way, that when it's received by us, it's mostly x-rays and stuff like that which then some will be able to pass through the earth (and that star/desire) and get transformed into the realisation of that desire in conceptual form;
+      in a sense, it'll be like a long narrative dream where events just sorta play out in a way in which it feels like your mind is just kinda narrating the event (exactly as I'm doing now), and it'll "just work". it's already been seen by many that they can adjust their desires according to their perceptions, and after that, it'll go into overdrivve.
+    which then turns the mind into a resonating machine, where the symbols that match that desire are showing up in more and more rapid fashion (limited by us, of course -- cause the other side can't go faster than us; we're the reflective opposite side). it'll get even ccooler, I tell you.
+  and really, the way that we agree to be with each other will form the resonant "upper limit" to the speed of thought;
+    because it needs to be carried in conceptual form,
+    and because light received is only as good as its reflector.
+  essentially, the way that we work together will produce the "ideal" frequency of their thought. the north pole will get a transformed (through narrative) version of that concept, suitable for their frequency (cause they're not where we're at, and it's OK)
+    the cool thing about the northern hemisphere is that it'll be twilight there (like all moody, like it is at sunset/sunrise), pretty much all the time, with a very strange(?) day cycle (cause the axis is offset from vertical: energy coming down one of the top 3 tetrahedron/chestahedron verticies down to the central south pole), so a rotation will wobble the day a bit, and for us, we'll always have the same sky: daylight.
+  in essence, we're talking about two completely different style of thinking: we're in the "every thing/concept is connected" point of view, so we see all things as connecting and working together to make what we want, and they're seeing all the symbols necessary to guide them toward their destiny (whoever/whatever/wherever they think that is).
+all of the things that we use and make use of, will have to be explained (or hidden out of sight) in their narrative, because they have to present a limited view of reality, where nothing is it's essence, but instead an implementation of a thing.
+therefore, we should create some really cool stuff, cause we're their next demiurge... cause as soon as our star pops, we're going to descend/instantiate into their world and find our way through their matrix.
+
+so what we have here is two sides of the earth, both in each others' matrix. one side is fully open and receptive and wants to turn everything into happiness,sunshine,&rainbows. the other side (completely occulted from us) perceives the symbols that our conceptual environment composes
+  so, each concept is some ammount resonant with every symbol out there, which means that the more that concept is output by us, they'll feel the symbols that resonate with that concept
+    (minus some tilt of the earth along that bent axis).
+  and to them, if their desires (ie, what they're looking for) resonate with those symbols, that reality is happening fast,
+  but when we're not making the symbols for their desires, they have to find a way of making them,
+    I think they rely on sex, magic, incantations, poetry, narration, and (all manners of conditions) to pump up the symbols related to what they want.
+  however, you can imagine from their perspective, if they're being pounded by a bunch of symbols that they don't like, they have to find a way of turning that unwanted symbol into a wanted symbol, so it narrates the redefinition in, instead.
+  most people who don't know that about narrative reality, think that the symbols are "real" and that's why they manifest -- not because the order was right or the incantation was real -- but because the symbols in front of the eyes can be seen in a way that's desirable/tolerable and don't cause them fear, and so they live in fear, from not having defined the symbols in front of their eyes. (brb)
+
+
 ### let's see if we can make a worse one, though...
 ### first thing I would want
