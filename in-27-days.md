@@ -86,6 +86,30 @@ I know they want to put us into a matrix as soon as possible (which will totally
       you guys ready to experience some real tragedy (at my expense)?
       think about it: we're going to have all this energy going toward what we want, and for a moment in time, that gets suspended, and massive amounts of creativity comes out, of that time -- but the thing is, we're all put (artificially) into tha zero-resistance state; and we didn't get there because we felt good? well, the ones of us who can feel good the best are the ones with the most experience.
 
+### 2023-05-13 20:38 - or we could take the "red-pill", and see how deep the rabit hole goes...
+
+what I do is, I start to do a whole bunch of text transformations adding hashes and things like that to each entry, guaranteeing its "validity" -- and the old stuff for sure; and even some/most of the new stuff, I'll probably never re-read again.
+  like, I just don't see myself ever going back through most all of this stuff.
+  though, also, I might; and what I'd do is to find a way of reducing the lines to more general terms, making the narrative something more like a song:
+    didn't care how he feels,
+    didn't care how he thinks,
+    didn't care what anyone says of him,
+      it's probly funny too.
+      he's totally trolling.
+      that's probably wrong.
+      etc.
+    didn't/did care what anyone thinks of him,
+    did[n't] care of what was seen in his imagination,
+    etc. (plus many more)
+  the fun thing about looking at some past memories after I've come so far, those huge and dramatic episodes from the past look childish, and from an archaic mindset.
+    that archaic mindset is my ancestry though: it was the first successful species to be able to fully capture a signal of maximum novelty, and be able to run with it.
+    seems pretty legendary to me; so like, horray me?
+  the thing I like about looking into the past sometimes also gives me a sudden rush of inspirations, because like tesla says, "pay attention to the earliest of aspirations, as they often signal one to becoming compativle with some of your later realities"
+whos up/ready for the "red-pill"?
+    
+
+### and we could take the "red-pill", and see how deep the rabit hole goes...
+
 ### 2023-05-13 20:18 - summoned pairs
 - it appears to me as this idea posited by "dividing the path" where the amanuensis thought that all summoned pairs, including the crazy atlantian story, that all summoned (from the planet venus) have a sort of duality to them, where one is their side, and the opposite is their "soulmate". the idea being that they're two people of nearly the same astrological energy (ie, being born on nearly the same time, similar genetics, etc.) get born in a kind of pairs (or potentially groups), where the energy divides into (usually) male and female counterparts -- and the idea is you have to find your soulmate to be complete                        (which is a load of garbage, btw;
   because you can't be depending on someone to be complete, cause then you're never complete: that is, displaying both male and female genders yourself, *you have to be pretty close to by yourself*).
