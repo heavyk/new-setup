@@ -130,7 +130,28 @@ whos up/ready for the "red-pill"?
     so, for example, imagine that we go off into zero-g and we're all like super chill towards eachother, and we just get used to eachother without any resistance to each other,-- and we're just like together and stuff -- but when it starts, we're back into reaction-only (machine) mode again, where it's max-contrast/noveltty.
     like really, why not take the time while we're in zero-g to build up more constrast for each other, limiting our own cOncepts; like think about it: if we work to limit ourselves further, instead of creating: we end up doing both: staying infinite, and also creating (at the cost/penalty of some extra conflict/drama). (brb)
 
+### 2023-05-24 13:13 - what sort of things do I want to create in the demiurge?
 
+this idea comes to me at the ttop of a fictional story assessment: this entire thing, until it becomes reality, is still a fictional story (and therefore subject tto change). what I mean iss, the imagination filters out a lot of extra information to make the image look really big (it's a very tiny living image/concept that's being magnified/modified/rendered) -- so one *never* sees the whole picture in their imagination, so there are *always* missing pieces that one will come to realise in the reality version of the thing.
+  the imagination is a fool, because it feels the way it wants to feel looking at the limited data it can perceive (which is a tiny fraction of what is experienced in reality; reality is so much more visceral and tangible than that);
+therefore, everything conceived in the imagination *must be fiction* (no exceptions). the real-life state/experiencce of things   is completely lost in the imagination, where for example, the uncertainty of something is simply *not possible* to feel in the imagtination.
+  we (and I'm strongly including myself here) think we can judge probabilities in the imagination, but because the imagination cannot *see* all the data, one must rely on *feeling* to perceive all  of the data .
+because of this lack of perceptive capability, it's a very tantalising idea to add another feature to the "imagination" (cause we (at least me) are going to be people without pinecone) that allows it to perceive probability based on feeling.
+  I've offered one thought about this, that in the conceptual machines that we're going to be building where we'll essentially communicate with our computers with our heart; obviously we'll have a sort of language -- and one of the features I want it to have is to be able to say phrases and ideas/concepts with a tone of certainty to it.
+  having an imagination, we'll have the ability to also send pictures along with that probability as well (with our heart), which will produce a concept which renders that level of destruction in case of the uncertain occurring.
+later on, when we jump into their matrix, we'll have pinecone, and there we'll struggle to use the same techniques (cause we're goinyg to be machines, essentially, invading not just the bodies that they've prepared for us, *and* all of the machines they've built -- cause now we're in techno cyber-space), and so the idea is that we create our own disabiling forces stronger than their efforts against us.
+
+one really important to me is to learn a coceptual frame of mind that is *efficient* -- and the reason is, if you just look at life conceptually, so many things are an *enormous waste of time* -- like (from my perspective), it's monumental how much time we waste on bad ideas, or things we're completely uncertain on, or have no influence over anyway.
+  I've always perceived life in a form of efficiency -- and so I've learned to be inefficient (not frugal) about things as the abundance of them rises; in an abundance economy, many tthings don't need to be conserved -- where the efficiency is not worth the ttime or money. some things, like a few cents of electricity or whatever don't need to be saved for the loss of some minutes of time. (I just noticed electricity is electric+city).
+therefore, the thing that we're creating is a system that helps us to automatically remove inefficient things from our life.
+  so, to fight against it, they'll have to try and make us as unefficient, living in the most abundant lifestyle, to ensure we never regain our LOA capablitites.
+people like myself (obviously I already have a bunch but I want to make more), will also create their own nemesises to join them in the world, that they'll defeat us regularly at our own game (programmed by us of course), so even in this lush cushy environment, we're swimming in drama because of our symbolic duals.
+
+---
+
+remember, if they try to fight any of these ideas, it attracts them just the same as if we attract it.
+  all I have to do is to have a desire, write it down (or think/say it) and all of a sudden, that capacity is gone.
+  we'll make a similar set of integrations into their computers to ensure that this service is provided to us guaranteed,--- that way we can just desire it, and their (computer automated sysytem) fighting against that desire, attracts it for us.
 
 ### let's see if we can make a worse one, though...
 ### first thing I would want
