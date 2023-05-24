@@ -64,6 +64,19 @@ let's see if we can make a worse one, though... (brb 18:36) please see...
 - 7x144 is a cool factor that the number has (among others, I'm sure)
 
 
+## random things:
+
+### 2023-05-13 20:18 - summoned pairs
+- it appears to me as this idea posited by "dividing the path" where the amanuensis thought that all summoned pairs, including the crazy atlantian story, that all summoned (from the planet venus) have a sort of duality to them, where one is their side, and the opposite is their "soulmate". the idea being that they're two people of nearly the same astrological energy (ie, being born on nearly the same time, similar genetics, etc.) get born in a kind of pairs (or potentially groups), where the energy divides into (usually) male and female counterparts -- and the idea is you have to find your soulmate to be complete                        (which is a load of garbage, btw;
+  because you can't be depending on someone to be complete, cause then you're never complete: that is, displaying both male and female genders yourself, *you have to be pretty close to by yourself*).
+    so the best way to do that is to keep the distance high between those that are most similar to me
+  what ends up happening is that when you start to get into contact that is too similar to your own vibration, you/I attract a manifestation of ourselves, combined.
+  however, the difficulty of this, is, as all attraction speeds up, you find a reflection of yourself, *really fast*; just go with it.
+- tim/raquel
+- zaryn/allison?
+- who more??? seems like I'm missing a few still.
+
+
 
 
 
