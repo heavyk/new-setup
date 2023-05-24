@@ -66,8 +66,7 @@ let's see if we can make a worse one, though... (brb 18:36) please see...
 ### 2023-05-23 21:07 - all paths lead to...
 - me "getting connected", upon which, (is when my constrast per moment is less than generated contrast per moment -- so net-positive); the following will, occur:
 - I'll not get sick/sleep/tired/more? after I'm more improving more than unimproving.
-after which I'll fall back asleep again, and once again they have control over the timeline.
-however, it is the case that I'm producing more contrast than they are able to produce right now, which means they'll become relative to me, unless they too can become infinite (and join the borg). inotherwords; they just become sort of play props in our reflective perspective into the universe. all of us are infinite beings, and all of us will take a different route to get there: such is life.
+after which I'll fall back asleep again, and once again they have control over the timeline; however, it is the case that I'm producing more contrast than they are able to produce right now, which means they'll become relative to me, unless they too can become infinite (and join the borg). inotherwords; they just become sort of play props in our reflective perspective into the universe. all of us are infinite beings, and all of us will take a different route to get there: such is life.
 
 ## random things:
 
