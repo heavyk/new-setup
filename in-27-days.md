@@ -219,6 +219,24 @@ so what we have here is two sides of the earth, both in each others' matrix. one
   however, you can imagine from their perspective, if they're being pounded by a bunch of symbols that they don't like, they have to find a way of turning that unwanted symbol into a wanted symbol, so it narrates the redefinition in, instead.
   most people who don't know that about narrative reality, think that the symbols are "real" and that's why they manifest -- not because the order was right or the incantation was real -- but because the symbols in front of the eyes can be seen in a way that's desirable/tolerable and don't cause them fear, and so they live in fear, from not having defined the symbols in front of their eyes. (brb)
 
+### 2023-05-25 15:12 - I want to become even more basic, not complexify
+
+today, I woke up thinking about the idea of bassanio: in it, he's got to pick from one of the three coffins, and the correct choice is the lead one.
+  one thing I've noticed in my exploration of myself as a centre, is that I'm quite notably an actor of a lot of people. I take what they do and copy it (shamelessly), and just implement it (very much like a child does).
+    I also seem to perceive everything (past,present&future) as all happening "now"
+  and so what's important about that is I take the lead position, naturally because I'm constantly trying to figure out how to implement someone else's idea into my experience: I simply copy them and just make improvements as I go along.
+  ---
+  the problem with the silvers is thatt they're simply not a good enough reflection --
+    and so yesterday, jaron showed me the venn diagram of preachers, bank robbers, and DJs; it's obvious that the DJ is the reflector, and one of the many reactions to that experience is a note about how ineffective reflectors (like DJs, social media influencers, etc.) are at actually reflecting tthe society/culture/idea that they're copying/modifying/remixing/creating and putting/encoding into different mediums (sound,music,visuals,etc.) -- and to be very clear it's not possible to ever be as good of a reflector as the transmission/bitrate/transfer medium is capable of -- and when it comes to using technology to reflect our ideas out into the world, we're locked into the limitations of the format/medium that we choose to express ourselves into.
+    in addition to that experience, I'd like to recall the dramatic realisation of what it would be like if I started a podcast, or wanted to [create a website](/blartr.md), or whatever -- and all of a sudden, it became realised that I would behave as a reflection of that medium as well (here typing, I just do m/ own thing).
+  and the problem with the gold ones is that they're not *actually* gold -- just pretending to be
+    like most preachers are; in fact, I've noticed a dramatic correlation between the actor and the charactor, becuase they reflectt the other quite a bit (because of the quality of the reflector). so, for example, most peachers can be compared to bank robbers (or sales people) because of the medium/concept of exchange medium/concept we call money.
+  and so bassanio eventually picks the lead coffin and in it reads that he did not look for physical beauty/appearance but instead noticed that they're a counterfiet (poor reflection) of portia; and so, by choosing the counterfiet, he gets portia.
+  as a result, I've been trying to figure the counterfiet thing out, and so [one of the ways I tried to reason this](/blartr.md#2023-05-21-2300---a-narrative-idea) was to try and find a way to make them "actual gold", for it to work.
+so this morning, the thought that came into my head is that I should think of the peruvians as counterfiet. immediately, I rejected the idea. later upon reasoning it out, I tried to fivgure out why I didn't like the idea so much. I listed some reasons:
+  - not attractive -- but then noted that the're probably not going to be doing the "desire me for my physical appearance" thing that is common in "western thought" (not sure where to draw the line there -- cause maybe more than just western) and so I wouldn't have nearly the same problem [I've been trying to solve](#2023-05-24-1449---everything-we-decide-to-do-will-have-to-be-narrated) with an agreement on more than just physical things (like a marriage vow puts significant restrictions on emottional interchange).
+  - nothing in common with me -- noting that I usually find something in common with almost everyone that I encounter, but with the peruvians I knew, (though great people), I didn't find I had any commonalities with them at all.
+and all of those reasons are "real" inside my head, but then later on (after smoking a bit and thinking about it), I realised that maybe I have some commonalitites with them. (brb)
 
 ### let's see if we can make a worse one, though...
 ### first thing I would want
