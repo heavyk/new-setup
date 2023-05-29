@@ -362,6 +362,13 @@ therefore I've been thinking about these last few days has been about how to bec
   ---
   you know there's another thing too which is that reflection isn't just in the visible spectrum, because the mammalian portion of our brain is designed that we reflect the person we're interacting with on the inside, such that we're empathetic and sharing each other's space; that has to be turned off with effort of the mind (that is, learning to have zero/little-resistance to anything happening around. (resistance makes  impacts, and that's bad)
 
+#### 2023-05-29 02:40 - a cool geologial resonance
+
+if I consider goldlandia,silverlandia&charcoalandia, then when I place them on the map, they are an equilateral triangle around (above?) atlantis area: reflector in poland, the gold in the USA, and the foil in africa.
+  I think, also it looks to me that this is somewere around 90(degrees) off from the pole: the south pole, which will soon be pointing at the sun, which means, that means for the star on the inside of the planet, that's a cOonsiderable torsion force being put on the star. I think it's time for the earth to start producing strong x-ray emitters, pumping in energy from the south pole, and then eventually releasing the star out of its north pole.
+    that'd be pretty crazy right, if something went wrong: once the star starts to gain a lot of attraction, and it starts to attractt the atlantis island again (because of the frequency it emits), and causes it to sink into the ground, causing massive tidal waves and stuff. (if something went wrong...)
+  and so consider that in that location somewhere around where atlantis is, is the nodal point which is kinda like "charging" the interior star: according to the vibrations that the gold, silver and charcoal are emitting.
+a great light will come out of russia because they're all so white and stuff, so they'll all be reflecting eachother in a giant ball of light; the USA will have a really strong emission, but it'll be the "right way" to do things, and so therefore will be the gold. then, the goal of the africans is to simply not reflect anything, but to be a strong absorber (of everything) and emitter of only the wanted aspect (the foil).
 
 ### specialisation: one/duality/many implementation
 - if I'm summoned, do I perceive the complete or am I a piece (of the frequency spectrum)
