@@ -352,6 +352,15 @@ what I want to do, is to go from a reflector -> actor,centre. the reason for thi
     I've noticed that most people stay away from drugs because they don't want to confront their own conceptualisation of the universe in a more attractive environment; people want to be *in control* of their imaginations, and see only what they want to see/doo.
   the last few days, I've noticed how interesting it is to see myself reflecting others.
     if I continue on the way that I am, if I start to shine really bright, tthen the world will contain all of the visible colours of the spectrum, meaning I'll be imposing my lightt (the way I see things) onto others, overtaking what they see (my aura must already be doing this). (brb 01:52)
+therefore I've been thinking about these last few days has been about how to become myself a dull reflector, and learn to shine light myself (essentially hiding my reflectivity).. what this means is that now in the triad, I'm a actor/foil, and not a reflector and for all the things, I'm solid about, I'm charactor/gold.
+  what that means in practicality, is that I don't want to be is the strongest x-ray emitter there is. I want other x-ray emitters, cause I feel more comfortable around the x-ray emitters, and not so much the visible/UV light emitters.
+      this is because our conceptual spaces (x-ray) mixing don't really impose a reality on my physical body,
+       which is where all of the reactions are happening: reality-kenny is pure physical
+    like the visible light constraints do
+    ---
+    also, of note: I've often commented that it's just plain sooo difficult for me to concentrate around hot girls; and it's simply because they're so distracting. they want me to be reflecting her external image back to her, when I don't want to be in her conceptual frame of mind: I like my own more, and so that's why it's totally fine for all of these girls to be invisible, and I keep fighting to keep them invisible, because I don't want to be in her conceptual frame of mind: I want to be a *dull* reflector (pure absorber myself).
+  ---
+  you know there's another thing too which is that reflection isn't just in the visible spectrum, because the mammalian portion of our brain is designed that we reflect the person we're interacting with on the inside, such that we're empathetic and sharing each other's space; that has to be turned off with effort of the mind (that is, learning to have zero/little-resistance to anything happening around. (resistance makes  impacts, and that's bad)
   
 
 ### specialisation: one/duality/many implementation
