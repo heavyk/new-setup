@@ -40,5 +40,8 @@ indent_style = tab
 indent_style = tab
 
 [*.md]
-trim_trailing_whitespace = false
+# 2023-05-29 enabled
+# enabled because I don't like it. it really annys me, actually, and I don't know why
+# I like my line ends to be void space, not real space
+trim_trailing_whitespace = true
 
