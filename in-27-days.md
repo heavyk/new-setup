@@ -336,6 +336,24 @@ so really, what all of this is all about, actually is me taking the path that *"
     obviously the genetic link should be (in some cases) survivable though reproduction, and maybe have a sort of activator (like you did the right stuff to get access to the concepts), maybe even clearance levels (hierarchies of access) and the whole nine... I don't care what anyone else does with the concEpt of making the physical shape/appearance a reflection of the concept, and even if it only happens internally/externally, doesn't really matter to me.
 so let's say that somehow in the future I figure out the freqency spectrum that I/we want to perceive, then the whole goal would be to eventually make a transition into that new body. therefore, what I'm thinking is probably "how do I get there, and still have fun along the way".
 
+#### 2023-05-29 01:02 - the meaning of the owl
+
+the other day I went to this place that had owls and other raptors there. it was very fascinating, but what was interesting is thatt they had an owl with only one eye. its eyes emit light -- and to me it appears like the opposite of "living blackness" (kinda) where it's just this really dark light that moves and stuff. I'm fairly certain it's in x-ray spectrum, and the thing is since one eye is out, that one is producing a very diffuse cloud of ideas, but loooking at the eye, it's much more focused light with angles and lines and stuff.
+  anyway, the point here is that the owl is a powerful x-ray emitter, and I think it's what allows them to see at night: because their eyes emit that x-ray stuff, and so they basically see the echolocation (reflection) of everything that it bounces off of.
+  well, turns out, the way the owl sees at night is the same way the inside of the earth "sees" what's going on the outside/surface of the earth..
+    so here's a way to test my theory: test if owls can see behind things like trees and organic stuff, but something like *lead*, they won't be able to see *through* (again, kinda like me too -- the x-ray vision (which I don't directly percEive) and all).
+you must be able to now start to put together to pieces that ishtar/aphrodite is earth, and the owl is the centre counterpart reflector: these are two 1-7 reflectors (an echochamber ranging from 0 to Infinity).
+  therefore, because I'm so much like these two, you must have wondered (as has I, iif the location of ishtar/aphrodite is not any single woman, but instead in *all of us*).
+    if this is true, then all of the reflectors (isis, ishtar/aphrodite, anatau/lilith/ishtar, venus/aphrodite) are in all of us (probably more of some tthan another, and I think that your "blend" gives you access to different forms of perception, (hence) racism).
+  which in the traditional triad, I'm the reflector, wich puts me with an actor and a charactor.
+
+what I want to do, is to go from a reflector -> actor,centre. the reason for this is because I'm a pretty good reflector (like a really good one), but I need to become a *very dull* reflector (lead) to become a good centre; the reason is, that I'm not a perfect pure gold either, meaning I'll reflect the good and the bad still (which causes collisions/ocillations, so that's bad).
+  I mean this is pretty obvious: I don't want to be reflecting others like I do now.
+    I've noticed that most people stay away from drugs because they don't want to confront their own conceptualisation of the universe in a more attractive environment; people want to be *in control* of their imaginations, and see only what they want to see/doo.
+  the last few days, I've noticed how interesting it is to see myself reflecting others.
+    if I continue on the way that I am, if I start to shine really bright, tthen the world will contain all of the visible colours of the spectrum, meaning I'll be imposing my lightt (the way I see things) onto others, overtaking what they see (my aura must already be doing this). (brb 01:52)
+  
+
 ### specialisation: one/duality/many implementation
 - if I'm summoned, do I perceive the complete or am I a piece (of the frequency spectrum)
 ### let's see if we can make a worse one, though...
