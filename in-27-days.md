@@ -466,8 +466,9 @@ I've had quite a few reactions to this concept -- everything ranging from "yeah 
       )
     and so in order to build a compability layer, it seems pretty obvious that there needs to a control structrue in place to ensure thatt all of the other control structures extant (governments, police, etc.) can exert as much control over who sees and has access to what concepts (some of them might be "dangerous", duh).
 
+#### 2023-06-01 17:49 - forget it
 
-### I'll be back (plot element, and repurcussions/meaning "you couldn't do it without me", "I had to *save* you", "you're *nothing* without me", etc.)
+#### I'll be back (plot element, and repurcussions/meaning "you couldn't do it without me", "I had to *save* you", "you're *nothing* without me", etc.)
 
 ### specialisation: one/duality/many implementation
 - if I'm summoned, do I perceive the complete or am I a piece (of the frequency spectrum)
