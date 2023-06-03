@@ -1,0 +1,22 @@
+{
+  "name": "new-setup",
+  "version": "1.0.0",
+  "description": "starting here",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install-pnpm": "pnpm add -g pnpm",
+    "start": "zx vulcrums-lare.md"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "devDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "terminal-in-react": "^4.3.1",
+    "zwitterion": "^0.47.0"
+  }
+}
