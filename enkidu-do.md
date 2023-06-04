@@ -186,3 +186,5 @@ I think we should organise a doubting committee, where we really doubt that our 
                 so here's the thing: efficiency is kinda a sham after a while. I waste so much time because I know efficiency doesn't make any difference compared to needing others to behave differently so I can be efficient, cause no matter how hard I try, I can't go too much faster than just now. past and future need to be so unattached to, because they're *always* bad predictors of the  future, cause what's attracted, is a concept, not a symbol, so the manifestation is always an imperfect version of the ideal -- so it's to not need to be the ideal and realise the ideal is all a sham, cause what I want is what's attracted, because looking at me (the concept) is more appealing than looking at anyone else; that is, *being* the (completed) concept that I-am, is: a sort of self-made universe in which I'm at the centre.
           I'm done. medium-well done, and potentially large-well done. kaput.
 
+### 2023-06-04 00:59 - the
+### 2023-06-04 00:59 - the 
