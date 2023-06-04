@@ -187,4 +187,13 @@ I think we should organise a doubting committee, where we really doubt that our 
           I'm done. medium-well done, and potentially large-well done. kaput.
 
 ### 2023-06-04 00:59 - the
-### 2023-06-04 00:59 - the 
+### 2023-06-04 00:59 - the
+### 2023-06-04 03:44 - enkidude
+
+so check this out: I'm basically vulcan in aries body. aries is the bro, so I'm kinda like a self-programmed bro because I'm very 7th ray, even though I'm extremely good with my emotion/conceptual; in fact, I'm getting very good at *all* the rays, which is what everyone will eventually do.
+so what this is all about is, is enkidude is an enkidu that is capable of playing any of the three/five pen-rose positions: reflector,actor/foil&charactor/centre. basically, I'm good at all of those roles, but the first two ((ch)actor) have atrophed greatly, simply because nobody wants to watch me emulate them (well, there may be a few), but most of all, *I* don't want to emulate others. I want to be me, and so the problem is, I have to be around people, so I become reflective of them and begin to imitate them. therefore, in order to get the ability to be whatever I want to be, I'm going to be a perfect absorber: no reflex to nothing, and preferrably no emission based on that absorption; I'm *only* shining what I want to shine, and everyone else is an extension/reflection of that.
+  I want to literally turn black absorbing everything, but then emitting my own physical output (shape,colour,size,etc) on top (coming out of) of the perfect absorbing black that appears of nothing, but is not transparent (kinda like the centre of my eye, actually).
+
+so, enkidude is actually someeone like me that is a very very good absorber (very receptive), and so what you (or anyone) sees in me is first: whatever they wantt in their imagination, and second, they see my real *physical* shape.
+  so, when enkidu is instatiated into the physical into boy from, he takes on mars' body (ie how would mars perceive this concept) by default; for the girls, it genxicat, the dark woman pitch black ultra absorber and emitter. mars *wants* to be like her, but he doesn't realise he's got to learn how to be a perfect reflector (that is, clean the conceptual mirror), before he can be a good emitter of only that shape-shifting conceptual image.
+    being a good emitter, which shape-shifts to be what anyone else conceptualises it to be, requires that I allow others to see me how they want to see me, rathar than how I wish to present myself. I'm just letting me shine out, is just having zero/negative resistance. it's just that easy! (waves hand like a jedi)
