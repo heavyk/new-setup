@@ -136,3 +136,6 @@ so, what we're going to do is to wait all the way up to the end, and then finall
   so, it's gonna look to them like a total tragedy: here are these poor girls that totally were gearing up to do something great, and then the guy just drops dead from such a massive orgasm, that they're just sorta stuck and having to figure out what to do.
     it's gonna be pretty tragic (when perceived it from the sttandard american-culture perspective). like, what a terrible tragedy.
   the thing is, on the inside-out perspective, we continue on here on earth just as much a part of it as everyone else, so we're totally fine and chilling and stuff like no big deal; bein awesome, you know.
+so what ends up happening, is we're all seeing the same world, but tthose with the outside-in perspective get to experience the fail.
+the ironic part about it is that we're still on the same earth doing all the same things as before, so it's not like it's a secret that the tragedy never happened, cause from our perspectives, it never did -- yet from their perspective, it did; so they live in a world that's perceived as their own.
+  I feel like the girls that they see will be loose (or maybe gross) misinterpretation of the *concepts* (like a star) they represent.
