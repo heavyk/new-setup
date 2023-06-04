@@ -98,3 +98,24 @@ and so a lot of a part of the galaxy/planet/universe/whatever is just looking ou
       think about it: if everyone is resting at about zero, like lots of rocks and minerals base/stable elements stuff, then there's not much movementt, so there are some amount of inside-out or outside-in perspetives flowing at one time. it's not often the case that everyone is going in the same direction though; (it's a current based on attraction -- where the wires are just the guide for the energy to arrive the attractor). therefore, there could be one of those types that flow opposite the current: so if there are a bunch of outside-in types, all going in one direction, and suddenly an inside-out one goes tearing through the wire, do you think it's going to be going the speed of light??
         I'm the stuff that electrical disasters are made of:
         SOLAR ENERGY! (it goes the wrong way)
+(brb 18:03) and are there consequences for telling people the way that the universe works? well, from my perspective, they're going to have to figure it our for theirselves. they can ean live eternally and figure it out, or they can jump back into a sort of conceptual reality matrix that's relatable to them -- sure. I don't have any problem with what anyone else does,
+  -- so here's the thing: what I'm doing is just going eternal, right (like a star) -- so when I finally decide I want to start over, I'll do that (cause I mean, what if I get bored, right?)
+    -- but then you have to wonder
+    -- do stars ever get bored living out experiences with other stars in (outside-in) planets?
+    I doubt it happens actually, because with the advent of novelty in 3 dimensions, there's no doubt that you wouldn't *want* to stay a little while longer in 3d.
+    I know I do, right -- like I'm in no rush to get out -- cause I love it here, and so it's only you guys (in this strange reality matrix of universe-centric mofos) that'll,
+      have to figure it out for yourselves in your universe
+        which will probably look a lot like alternate variations of this time sequence --
+          like reliving the dream, but in a new environment --
+          kinda like your own matrix of rememberance.
+  I'm telling people stuff because it may make it easier for them later, and I don't really *pay* anything for it later,
+    because I don't have adversion to hearing other good ideas.
+    so, if someone else does the same thing to me (that I'm doing here, I love it, and would love to see other peolpe's (in my opinion) *good* (lol) ideas as well),
+      soo see how I invite in other people to try and steer their opinions into my life?
+        to me, this is quite fun and creates a lot of drama and people trying to stop me -- so I just cruise through and laugh at the bad ideas
+      I swim through bad ideas faster than all of the rest (cause of low/negative resistance), I wonder what attracts that kind of thing? I bet tesla would know...
+      I bet he may have tried to conjure/attract the manifestation of such a low/negative resistance **(concept/centre)** into reality.
+    it may have been one of the ways that I got here --
+      I have no idea -- but it's hard to fight with negative resistance.
+    I know that we attract others that are similar resistance to my own -- so it's sorta like a tidal wave of low and then negative resistance people...
+      in that sense, it's the end of the world (as we know it), affirmative.
