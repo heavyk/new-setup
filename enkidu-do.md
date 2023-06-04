@@ -139,3 +139,9 @@ so, what we're going to do is to wait all the way up to the end, and then finall
 so what ends up happening, is we're all seeing the same world, but tthose with the outside-in perspective get to experience the fail.
 the ironic part about it is that we're still on the same earth doing all the same things as before, so it's not like it's a secret that the tragedy never happened, cause from our perspectives, it never did -- yet from their perspective, it did; so they live in a world that's perceived as their own.
   I feel like the girls that they see will be loose (or maybe gross) misinterpretation of the *concepts* (like a star) they represent.
+what they do is provide a sort of downward fore that keeps me in the inside-out perspective: so if more guys would see from the galactic outside-in perspective, the more downforce they give me to stay myself in outside-in.
+  we'll eventually swap, right because eventually, they'll all be inside-out and I (and whovever else is inside-out) is now in the outside-in perspecctive.
+  it looks like something that all aspects of this univere transition from one perspective to another, and so it's all perfectly natural, and you know, part of the process we all eventually go through.
+    wow, welcome to universe training simulartorr: you will now switch from inside-out to outside-in so get used to the other guy, cause he's gonna be around for a while now appearing in clumps as we all live out each others mental simulations:
+      we make the sequence (the script, if you will) of what they'll endure when they change from outside-in to inside-out. they, like us, will learn to *be* theirselves -- from the inside loooking out into an unknown world.
+        crazy to think about that, you know.
