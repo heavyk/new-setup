@@ -119,3 +119,10 @@ and so a lot of a part of the galaxy/planet/universe/whatever is just looking ou
       I have no idea -- but it's hard to fight with negative resistance.
     I know that we attract others that are similar resistance to my own -- so it's sorta like a tidal wave of low and then negative resistance people...
       in that sense, it's the end of the world (as we know it), yeah (and I'll be fine, lol)
+
+#### 2023-06-03 20:23 - knowledge will continue to increase...
+
+some people could react to the previous by saying, "you're raping m/ mind; forcing me to know something that I don't want to know"
+  the thing is, I'll continue to increase in output continually, whether one wants it or not (such is the nature of any star/person/universe in inside-out perspective) so nosebook *must* censor me, because they simply have people that don't want to know something.
+  the ones that are nosebook/neo: if they don't want to continually know more about how the universe works, they will finally wish to get back inside of the matrix so they forgett and discover it for theirselves.
+but the spread of knowledge is unstoppable at this point, so really the only "weak-link" is our society's ability to keep up with tthe epansion of knowledge: we're probably only going to make it to galaxy -- cause we (mostly the outside-inners) don't know how to perceive concepts from an angle yet, let alone constellations of concepts (it's ppssible they could though, so here's hoping)
