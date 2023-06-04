@@ -118,4 +118,4 @@ and so a lot of a part of the galaxy/planet/universe/whatever is just looking ou
     it may have been one of the ways that I got here --
       I have no idea -- but it's hard to fight with negative resistance.
     I know that we attract others that are similar resistance to my own -- so it's sorta like a tidal wave of low and then negative resistance people...
-      in that sense, it's the end of the world (as we know it), affirmative.
+      in that sense, it's the end of the world (as we know it), yeah (and I'll be fine). lol
