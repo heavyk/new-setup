@@ -126,3 +126,13 @@ some people could react to the previous by saying, "you're raping m/ mind; forci
   the thing is, I'll continue to increase in output continually, whether one wants it or not (such is the nature of any star/person/universe in inside-out perspective) so nosebook *must* censor me, because they simply have people that don't want to know something.
   the ones that are nosebook/neo: if they don't want to continually know more about how the universe works, they will finally wish to get back inside of the matrix so they forgett and discover it for theirselves.
 but the spread of knowledge is unstoppable at this point, so really the only "weak-link" is our society's ability to keep up with tthe epansion of knowledge: we're probably only going to make it to galaxy -- cause we (mostly the outside-inners) don't know how to perceive concepts from an angle yet, let alone constellations of concepts (it's ppssible they could though, so here's hoping)
+
+### 2023-06-03 22:09 - the greatest tragedy ever
+
+check this idea out: personally I really like the girls and want to just spend time with them, so I say we just be completely ourselves with each other for a bit -- cause there are advantages, and also the basic idea is that I'm an enkidu as well, which means I have the outside-in perception, but my size is growing very very large -- and the longer I wait, the larger the area is that will be "me" and what's in "my world"
+  from outside-in perspective: so *I'm one of many*. inside perspective is: *I'm one amongst others*
+and so, let's suppose we could be the thing that the universe surrounds,-- or we could just be a galaxy. why shoot for the moon, when the next step is an accomplishable goal, ya know.
+so, what we're going to do is to wait all the way up to the end, and then finally we'll all become the galaxy. from their outside-in perspective, we're all just one of many in a galaxy; and that's what most everyone will perceive.
+  so, it's gonna look to them like a total tragedy: here are these poor girls that totally were gearing up to do something great, and then the guy just drops dead from such a massive orgasm, that they're just sorta stuck and having to figure out what to do.
+    it's gonna be pretty tragic (when perceived it from the sttandard american-culture perspective). like, what a terrible tragedy.
+  the thing is, on the inside-out perspective, we continue on here on earth just as much a part of it as everyone else, so we're totally fine and chilling and stuff like no big deal; bein awesome, you know.
