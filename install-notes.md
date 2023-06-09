@@ -24,5 +24,8 @@ git config --global user.name --set "flamez of love"
 ### common operations
 
 - copy command written in terminal
-  - 
+  -
 - copy url of open browser window
+
+- git subtree:
+  - git subtree add --prefix lib/Jacob https://github.com/Canna71/Jacob master --squash
