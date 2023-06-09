@@ -38,3 +38,11 @@
   - adam/mars (+7) emittor/charactor (he's got it figured out)
   - eve/aphrodite/earth (-7), reflector (obviously at first, not a very good one, instead reflecting her mother's idas about whatever adam/mars,vulcan/enkidu is carrying on about)
   - vulcan/enkidu (-5+), a programmable/interactive concept that takes on physical form through eve/aphrodite, and is ultimately the manifestation of desire in pure conceptual form, though the physical one is limited by social-economic framework he's in. in his world he's fighting dragons, but in 3d, he's fighting windmills, and staring down goats; getting himself into all sorts of trouble/tragedy because society's conceptual/technical framework doesn't render his lofty concepts very well.
+- we can perceive each of these as a "race" of people: eve (X) is the physical hardware and mars (+7) or enkidu (-5+) is the big-picture (Y).
+  mars, like eve, perceives everything based on its *appearance*, and so is often deceived by appearances (aphrodite). his world is all data/physics, actions/reactions, calculations and performance.
+  enkidu is all about "the 'right' way", which is always these lofty ideals (romance, fantasy, and everything fantastical, or has a sort of symbolic "meaning" to it
+    -- giving it importance, and implifying/illuminating the physical concept which resonates sympathetically with the ideal; or causing one to feel its symbolic "meaning/moral" conclusion/judgement)
+    so what we have is the "right" way vs the *performant* way -- which is in both meanings of the word: "fastest/best" vs "the way others want/expect/desire me to be" (the right/socio-economic-expected way)
+  therefore we have a whole bunch of "white guys" running around with mars' (aries-an) body, which is half eve.
+  there's another set of "white guys" (meaning, they're reflective) that are enkidu in male/female form, and they're either eve+eve or some other proportion eve (the YY, I beieve can only be in astral, and the minute they take on an X, the see their physical: "nakedness")
+    the reflectiveness of these enkidu is important because they start out as charactor/satyr or actor and then after learning to be reflective (eve), they become (gain capacity to see theirself (that is, *be*, for them)) a foil (when their Y reflects and transforms the conceptual perception) or a centre.
