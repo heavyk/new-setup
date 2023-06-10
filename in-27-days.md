@@ -471,6 +471,20 @@ I've had quite a few reactions to this concept -- everything ranging from "yeah 
 
 #### I'll be back (plot element, and repurcussions/meaning "you couldn't do it without me", "I had to *save* you", "you're *nothing* without me", etc.)
 
+## dear allison
+
+### 2023-06-10 10:00 - the 2nd ray perspective
+
+I just woke up from a dream that reminded me of you, and in it, I was operating in the 2nd ray perspective. it's "normal" for me, but I noticed that a lot of people couldn't really understand what was happening; it also explains why I couldn't understand what was "in" your book, too.
+
+the 2nd ray perceives the world symbolically and a mix of desire -- which is quite a conflicting perspective, because the desire aspect is all of the ideals (abstract implementations) which cannot and will not have a symbolic form to them (or they may be possible to represent symbolically, but impossible to make physically). to explain this idea, let's conjure a character that is nice/friendly, gets their way, and is also a good leader. I just wrote about this person symbolically (with words), but you'll be hard-pressed to find such a person in real-life; because someone who gets their way often conflicts with being a good leader and/or being nice/friendly (they've got to be a hardass/dictator as a leader to "always get their way"). so, such a person is an ideal which can only really be *felt* (and therefore imagined), but not really realised in a realistic way.
+  I had a friend (zaryn) that would do this to me all the time, ttelling me things like, "can we make the profile *better*" or "can we give this *emphasis*" -- and he didn't realise that he's seeing from the 2nd ray perspective, and conveying the ideal to me in words/symbol (which is fine) -- but in implementation, "better" could mean any number of things, and emphasising one thing often means trading off (downgrading) emphasis on another thing (you have to "guide" the user's eyes, not emphasise everything (overloading them)).
+because these ideals are only able to be imagined and felt, makes these kinds of things less about protocol, and more about aesthetics and desire (what appeals more), and so the author (if it's a book) or designer (if it's visual) will often times have to make a decision on how to convey that *feeling* through symbol and interaction. (ex. how could you *draw* a person that's alwas "getting their way" and is also a nice/friendly person) therefore, it's most important (I've noticed) from another friend (chris/ok7vn - 7th ray) that it's important to be able to represent that concept in another medium, such as a drawing of the character, a motion study, or making them "theme music" to describe the feeling of the character in more ways than just symbol/words.
+
+the reason why I couldn't figure out what was in your book is because you were telling me that all of these *ideals* like "self-advocacy" and "getting over a disability" were all included in a book, and I couldn't see how all of these ideals could possible exist in the same place at once (because they couldn't all be in the same place). I wanted to know *how* you were performing all of these amazing feats inside of your book, suggesting taking a symbolic action-oriented approach to these types of behaviour ("how to deal with a disabled person") and to build up a protocol, because I wanted you to see that there are some unrealised variables that makes it impossible for all of those ideals to be realised in a simple behaviour syntax/protocol diagram
+  which is why I used police victim protocol as an example, because it has tradeoffs which are unilaterally decided that they should take an unoptimal response to a victim, in order to ensure the safety/well-being of the officer and keep the police force away from lawsuit/scandal.
+anyway, I have more to say on the 2nd ray perspective (which you clearly have), but I think this is a good start for now.
+
 ### specialisation: one/duality/many implementation
 - if I'm summoned, do I perceive the complete or am I a piece (of the frequency spectrum)
 ### let's see if we can make a worse one, though...
