@@ -1,5 +1,7 @@
 # trialogue
 
+a dialogue about triads, where I use situations in my present life to illuminate (standard) triad relationships (I say standard, because I think they've been encoded into our genetics, and so they form a great deal of our perception (astrology resonates with us on a genetic level too, I believe)).
+
 ### 2023-06-09 17:55 - vulcan and saturn
 
 today I was cleaning remi's yard and thinking a lot about a lot of things. I don't really know where to begin, so I'll start with saturn. first of all, I think for me, the greatest "tragedy" (I put quotes because it's a choice, not a destiny) for me is not being put into the mars position; I'm already all three of the 7th ray triad in one body, so the natural thing to do will be to take the role of mars (the emitter).
@@ -16,4 +18,5 @@ so in the instance of today, I was thinking about what would happen if we reinve
   there's one thing that remi told me though which made me think about things a lot. she said that she's become a lot more a-d-d and she's having trouble to focus on something getting distracted easily. I noticed that I was just the opposite: I used to have a-d-d really badly, but over time I settled down into a more calmer (5th/3rd) perspective; don't get me wrong: I'm still quite capable of being the extremes (1/7), but I'm generally a lot more calmer now. additionally, earlier, I mistook eva for remi (which was notable to me).
 what I think is happening here is that (cause eva is mostly 7th ray reflector), is that remi has become more 7th ray *now* (she's probably given up arguing about the "right" way to do things) and venus has yielded a lot of her symbolic logic to saturn.
 anyway, the -3 -> -7 switchup gave me a lot of thoughts:
-  - thoth combines with saturn in the 3rd, encoding his symbols into physical/narrative/sequential form (alchemy), which (brb)
+  - thoth combines with saturn in the 3rd, encoding his symbols into physical/narrative/sequential form (alchemy), which (brb 19:53)
+  - allie I noticed was very similar to remi in how she interacts/reacts with things mentally, (brb)
