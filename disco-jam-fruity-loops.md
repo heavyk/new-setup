@@ -14,7 +14,15 @@ I want each song's sound to be simple code/routines that modify the array buffer
   each time the starting starting point is different than the ending point, we can think of this electrically as a number between -1,1 -- but we can also think of it in terms of notes too: so if I go up a fifth from where I started, the metadata for that "bit" says thatt: difference in frequency and also amplitude.
   different parts of these wave modifiers can be put together in a composition sequence to compose/create "sounds" and then put those together (with some orchestration) to make full songs that are programatically defined and orchestrated.
 
+### 2023-06-11 00:19 - it should feel bouncy
+
+one of the favourite things I like to do is to watch those funky little balls of light that I often see in my eyes; they dance around and have fun. I don't know how to do it yet, but I want to find a way to express that programatically. there are a lot of songs that sorta come alive with this sort of bouncyness to it that makes the song feel more alive.
+  the last few days I've played a few mobile games, and in the interfaces, they have bright colours and everything sorta bounces (pretty poorly I'd add), and it's one of the things tthat for example there's a movie logo that drops down and into the scene. compared, for example to jd's intro (which kinda linearly drops down the logo) I noticed that when things have a visually bouncy/weighty feel to them, they don't behave 100% in a calculated fashion, and introducing a little bit of chaos is actually what makes the bounce feel more "real". (it's like they often feel like the bounce is too good/smooth/perfect)
+
 ### songs to be inspired by (basslines/jams I'd like to hear)
 
-- anything daft-punk
+- daft-punk: around the world, da funk
 - newcleus, push the button: @[youtube](https://youtu.be/uKRIH-b8Xcg)
+- planet-patrol, rock at your own risk: @[youtube](https://youtu.be/I91meM9p5Hk)
+
+(*without the vocals*, of course -- but it'd be cool to somehow isolate the vocals and do some like alterations to them)
