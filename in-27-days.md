@@ -530,7 +530,7 @@ those are the two main foundation ideas that will make this idea a success, beca
 eventually, I want to turn this whole universe into a game with large battling robots and biological entites (like us) with "magic" (shapeshifting,summoning,etc) capabilites that are sentient (like us) and/or controlled/augmented by computers over a sort of galactic-wide network of concepts. (that's many years down the road though)
   for now though, I thought I'd just put the idea out there and see what you think. I have the idea written down (sparsly) in a github repository which [you can see here](https://github.com/heavyk/new-setup). the relevant sections are going to be in, "in-27-days" where I think about the idea and "enkidu-do" (cause he's got an action-plan) -- and the rest is mental dribble, thuogh I'll want to integrate some of the other ideas like the "blartr" conceept as well, to begin illustrating the narrative, not just with text, but with visual/interactive concepts.
 
-sorry for the long email; hope you enjoyed it,
+apollo-gies for the long email; hope you enjoyed it,
 kenny
 
 ### specialisation: one/duality/many implementation
