@@ -1,0 +1,110 @@
+%module Expression
+
+%%globals
+import console from 'console'
+
+%%structs
+Program(@stmts)
+Assignment(@id, @exp)
+Print(@exp)
+AddExp(@e1, @e2)
+SubtractExp(@e1, @e)
+MultiplyExp(@e1, @e)
+DivideExp(@e1, @e2)
+Integer(@i) do
+  @r = 0
+end
+Float(i) do
+  @i = Math.floor(i)
+  @r = Math.remainder(i)
+end
+Identifier(@id)
+
+%%patterns
+digits = [0-9]
+
+%%match
+<>{digits}*\.{digits}+ => {
+    @val = parseFloat(@txt)
+    'float'
+}
+
+<>{digits}+ => {
+    @val = parseInt(@txt)
+    'integer'
+}
+
+<>print => 'print'
+
+<>\w+ => 'id'
+
+<>\s* => {}
+
+<>\+ => 'PLUS'
+<>. => @txt
+
+<>$ => {
+  console.log('EOF')
+  return 'EOF'
+}
+
+
+%%actions
+
+act Program (ctx = {}) do
+  for i .. statements.length do
+    @statements[i](ctx)
+  end
+end
+
+act Print (ctx) do
+  console.log(@exp(ctx))
+end
+
+%%perform
+perform Assignment (ctx) do
+  ctx[@id] = @exp(ctx)
+end
+
+perform AddExp (ctx) do
+  @e1(ctx) + @e2(ctx)
+end
+
+perform SubtractExp (ctx) do
+  @e1(ctx) - @e2(ctx)
+end
+
+perform MultiplyExp (ctx) do
+  @e1(ctx) * @e2(ctx)
+end
+
+perform DivideExp (ctx) do
+  @e1(ctx) / @e2(ctx)
+end
+
+perform Integer (ctx) do
+  @value
+end
+
+perform Identifier (ctx) do
+  ctx[@name]
+end
+
+
+%%ast
+
+%left 'PLUS' '-'
+%left '*' '/'
+
+Program = { Statement } !>
+
+Statement = 'id' '=' Expression ((id,_, exp) => this[id] = exp)
+          | 'print' Expression (_, exp) => { console.log(exp) }
+
+Expression = Expression 'PLUS' Expression ((e1, _, e2) => e1 + e2)
+           | Expression '-' Expression ((e1, _, e2) => e1 - e2)
+           | Expression '*' Expression ((e1, _, e2) => e1 * e2)
+           | Expression '/' Expression ((e1, _, e2) => e1 / e2)
+           | 'integer' (i => i)
+           | 'id' (id => this[id])
+           | '(' Expression ')' ((_, e) => e)

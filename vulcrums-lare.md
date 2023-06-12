@@ -1,6 +1,19 @@
 # vulcrums-lare
 
 ```ts
+obv Width {
+
+
+}
+
+const panel_width = Width(100, async (val) => {
+  panel_
+})
+
+width = Width(100, (val:Integer, prev:Integer):Integer => {
+
+})
+
 class Obv {
   constructor (callback :Function, value :any) {
     this.fn = callback
