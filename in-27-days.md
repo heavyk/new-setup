@@ -531,7 +531,7 @@ eventually, I want to turn this whole universe into a game with large battling r
   for now though, I thought I'd just put the idea out there and see what you think. I have the idea written down (sparsly) in a github repository which [you can see here](https://github.com/heavyk/new-setup). the relevant sections are going to be in, "in-27-days" where I think about the idea and "enkidu-do" (cause he's got an action-plan) -- and the rest is mental dribble, thuogh I'll want to integrate some of the other ideas like the "blartr" conceept as well, to begin illustrating the narrative, not just with text, but with visual/interactive concepts.
 
 apollo-gies for the long email; hope you enjoyed it,
-kenny
+kenny (719-717-6708)
 
 ### specialisation: one/duality/many implementation
 - if I'm summoned, do I perceive the complete or am I a piece (of the frequency spectrum)
