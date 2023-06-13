@@ -14,6 +14,14 @@ finally, he's mine...
 cept, now he's also possive, and ecotistical, and a huge critic of me, and lazy, and lies...
 he's turned into "every other guy out there"
 
+### act-4: final encounter
+things are too unbearable, that I just have to leave him and go somewhere else.
+he seemed so nice before, I wish we could go back to how things were.
+I'll try to see him one last time, and hopefully he's changed and really [cultural and/or racial stereotype of a relationship] treats me like he should.
+
+### act-5: big epiphany
+I'm the problem
+
 ---
 
 ### act-1: I finally found someone I like
