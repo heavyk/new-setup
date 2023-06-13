@@ -46,3 +46,12 @@
   therefore we have a whole bunch of "white guys" running around with mars' (aries-an) body, which is half eve.
   there's another set of "white guys" (meaning, they're reflective) that are enkidu in male/female form, and they're either eve+eve or some other proportion eve (the YY, I beieve can only be in astral, and the minute they take on an X, the see their physical: "nakedness")
     the reflectiveness of these enkidu is important because they start out as charactor/satyr or actor and then after learning to be reflective (eve), they become (gain capacity to see theirself (that is, *be*, for them)) a foil (when their Y reflects and transforms the conceptual perception) or a centre.
+
+### 2023-06-12 19:41 - the tragedy (more fleshed out)
+
+so here it is: over the course of the next few years we work really hard and dilligently at the technology, but for whatever reason, we're overbudget, massively behind schedule, etc; an enormous failure, but a good try nonetheless (rocky-1-style), and at the end of it all, we *finally* have sex, and something really terrible happens:
+  I've actually thought about this alot, and some of my favourites are:
+  - I basically die on the spot, or in some really awful tragedy within a short timespan, but nosebook doesn't tell everyone that I'm actually dead, and sorta sleepwalk my animated corpse to its death, for who knows how long--1000 years, maybe?
+  - the technology actually amplifies the desire signal instead of keeping it hidden (self-destructing it, to stay "constant"), and so what ends up happening is that lyra starts getting *really high* solar activity until there's a massive supernova there, and from that moment on, all the enkidu that are no longer able to be in vega (at that new frequency/solar regime), instantiate into earth, much like the c-people did a few times.
+  - more? I'll try and think of some more, but honestly I think the second one sounds pretty awesome.hi
+the different ideas for what is really a terrible tragedy are all in the eyes of the beholder. I mean, just think of the hilarity it will be to watch what would happen if I just died on the spot, right? forget this 1000y of (nosebook enforced) "peace" nonsense, and just go with the hilarious thing of watching them try and figure it out; they'll have universal consciousness capable technology, so they'll be able to avoid the disaster if they want to -- so let them figure out how they want to go, or find their own way. it's a "tragedy", but it's also kinda awesome to just find your way there the way you want to get there.
