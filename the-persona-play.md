@@ -46,7 +46,7 @@ when I first saw her, I only saw what I wanted to see, not who *she* thinks she 
 wow, there were all of these other opportunities that I wasn't able to see cause I only saw what I wanted to see in her.
 wait, what is it that I'm *actually* looking for?
 maybe some of these other opportunities can fill that void: well, here goes!; I hope she's actually what I'm looking for.
-prolly yes/no/red-flags
+prolly yes/no; green-card/yellow-card/red-flag
 
 ---
 
