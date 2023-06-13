@@ -41,6 +41,7 @@ things get worse, as now I'm noticing that all the dreams of the relationship ar
 ### act-4: final encounter
 she's not really what I wanted;
 when I first saw her, I only saw what I wanted to see, not who *she* thinks she is.
+[how dare she be what she wants to be|I had better plans for her|she can't find her way without me|don't try to get close again]
 
 ### act-5: big epiphany
 wow, there were all of these other opportunities that I wasn't able to see cause I only saw what I wanted to see in her.
