@@ -49,7 +49,7 @@
 
 ### 2023-06-12 19:41 - the tragedy (more fleshed out)
 
-so here it is: over the course of the next few years we work really hard and dilligently at the technology, but for whatever reason, we're overbudget, massively behind schedule, etc; an enormous failure, but a good try nonetheless (rocky-1-style), and at the end of it all, we *finally* have sex, and something really terrible happens:
+so here it is: over the course of the next few years we work really hard and dilligently at the technology, but for whatever reason, we're overbudget, massively behind schedule, etc; an enormous failure, but a "good try" nonetheless (rocky-1-style), and at the end of it all, we *finally* have sex, and then something really terrible happens:
   I've actually thought about this alot, and some of my favourites are:
   - I basically die on the spot, or in some really awful tragedy within a short timespan, but nosebook doesn't tell everyone that I'm actually dead, and sorta sleepwalk my animated corpse to its death, for who knows how long--1000 years, maybe?
   - the technology actually amplifies the desire signal instead of keeping it hidden (self-destructing it, to stay "constant"), and so what ends up happening is that lyra starts getting *really high* solar activity until there's a massive supernova there, and from that moment on, all the enkidu that are no longer able to be in vega (at that new frequency/solar regime), instantiate into earth, much like the c-people did a few times.
