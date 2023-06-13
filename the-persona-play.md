@@ -30,7 +30,7 @@ we seem to have a strong attraction to each other.
 
 ### act-2: we get to know each other
 she seems to actually like me, and I like her too.
-a few awkward/stressful/uncomfortable moments pass, but it brings us closer
+a few awkward/stressful/successful/uncomfortable moments pass, but it brings us closer
 
 ### act-3: consumption
 I've got the opportunity, and I've got to decide if I want to act now.
