@@ -36,7 +36,7 @@ a few awkward/stressful/successful/uncomfortable moments pass, but it brings us 
 I've got the opportunity, and I've got to decide if I want to act now.
 it's probably my last chance...
 skip it... I'll wait for her father's blessing and for him to approve
-things get worse, as now I'm noticing that everything is falling apart.
+things get worse, as now I'm noticing that all the dreams of the relationship are fading.
 
 ### act-4: final encounter
 she's not really what I wanted;
@@ -46,6 +46,7 @@ when I first saw her, I only saw what I wanted to see, not who *she* thinks she 
 wow, there were all of these other opportunities that I wasn't able to see cause I only saw what I wanted to see in her.
 wait, what is it that I'm *actually* looking for?
 maybe some of these other opportunities can fill that void: well, here goes!; I hope she's actually what I'm looking for.
+prolly yes/no/red-flags
 
 ---
 
