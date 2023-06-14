@@ -288,4 +288,4 @@ so what's happening is that enkidu contains all of the symbols/red-flags of some
 in short, what I mean is this: enkidu has collected a whole lot of narrative ideals of himself, and he *really is* those things (conceptually), but he has no/little physical implementation/experience of his concept of himself, so he dosn't quite get it all right physically, but in the desire aspect, he *is* the ideals/symbols he sees himself as; and the tragedy is our misunderstanding and trying to fit his ideals into our social-cultural framework.
   it's impossible that society and the people that summoned him are likely to change, so the narrative itself serves the purpose well enough. one day the world will finally "get" (grasp/capture/understand) him. and until he actually "fits in", it's hard to get him to stay around. (like trying to staple jello to a wall)
 
-[1]: as birds fly around; at peace with the world, at peace with the world.
+[1]: as birds fly around: at peace with the world; at peace with the world.
