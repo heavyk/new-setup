@@ -559,7 +559,7 @@ I understand that the common way to look at this song is that billy jean is a wo
   tl;dr - the "father" (desire) is *all that is*, and we make that desire "one" -- and that "one" is just a (literary/narrative/conversational) aspect into ourselves (ourselves mismo)....
   maybe I'll try this concept again a little later. I'm having trouble putting into words how the many/father/all-that-is becomes "one" in every aspect of ourselves, as a reflection of what that "one" is: (from the one's perxpective) *my* love/cupid (me) (not your love).
 
-listen, and you'll hear your own desires in everything you encounter; hear, and you're trapped in the limitations of the symbols as they're presented.
+listen, and you'll hear your own will/billy/desire in everything you encounter; hear, and you're trapped in the limitations of the symbols as they're presented.
 
 [failed-expectations]: I'm reminded of a part in tesla's autobiographia where he beleived that someone would come and ask him to implement his world system (where he wanted to implement global telepathy: brain to brain connection) and so he got really excited when someone from the company came to his door. he was so sure they'd want to install his world system, that it caused an extreme fit of anger and rage when all they wanted to know is if he thinks he's psychic and can read other's minds (the exact *opposite* of what he wanted to create, but symbolically equivalent: here's his opportunity to prove to the world that we can communicate *brain to brain* -- by showing himself a psychic...) lol
 
