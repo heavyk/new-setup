@@ -533,6 +533,36 @@ eventually, I want to turn this whole universe into a game with large battling r
 apollo-gies for the long email; hope you enjoyed it,
 kenny (719-717-6708)
 
+### 2023-06-14 17:29 - hearing and listening
+
+the other day I noticed I spelled your name wrong, but then I just hated the way it looked when I changed the spelling on it. I finally decided that I wanted to change it back to "misspelled" and when I did, I noticed that "alison" sounds to me like "ali-son" (like muhammed ali's son), and that didn't sound like you at all. instead when it has two l's: "allison", it sounds to me like "I'll lissen" (the way americans pronounce "listen": with a silent 't').
+
+as I thought about what I wrote in the commit message where I changed it back, I was trying to piece together a good way of explaining what I mean by "listening" vs "hearing". hearing is symbols and words: the literal meaning; however most people (you'll notice, especially after talking with me a bit), *do not mean the same thing* when they say the same words.
+  as a child, this very fact, *drove me completely nuts!!* because one person would say one thing and mean one thing, and another would say the same thing and mean another. I wanted the world to speak to me like a computer does: plain and full of intention for me to understand with clarity *what they're trying to say*.
+    --- TODO
+  as I grew older, my ability to "listen" to the person became less and less, as I started to try and make *symbolic* sense of what everyone was telling me (I just assumed that everyone was trying to communicate clearly with me), and consequently I lost more and more hope for my ability to communicate with people. depression started to set in, and I started to sink into stronger and stronger emotional swings
+    some people (I noticed) in this phase often turn to pets and animals, as it feels like they're the only ones with a "true" communication that isn't always trying to take advantage and manipulate with words/symbol. I didn't go so much for the animals though, and instead developed a *very* strong desire to learn how to program a computer.
+  once I had my brain haemorrhage and all of that I came out of the hospital and learned how to program a computer, and I gatta tell you, it was love at first experience: here's a thing where 100% of my actions (written in code) are *my fault*, and not anyone else's. I have full control over how the machine behaves, and when I communicate with it, it's a clear and defined interface (hopefully, if it's good software/compiler).
+  as I continued on to get better and better at programming the computer, it's like a relationship where you gain better and better communication with someone, and the interface gets *clearer* and *increases* in functionality.
+    I came to understand that there is such a thing as malware, viruses, and a lot of other "malicious" (self-serving) entities out there in the computer networks, and so I spent a good portion of my life learning cryptography and other such "measures" -- and really, the conclusion that I came to is that, I can never "verify" or "trust" anyone else, but what I can do is have a way of using 3 or more different instances of myself (my code) to verify that *my* code/data/whatever is what I perceive it to be (whether that's represented as a hash or an abstract picture; doesn't matter, just that it's an other (slightly modified/rerendered/reinterpretted) version of the the same code: the actor).
+  dispite my best efforts to find a way to guarantee some symbols outside of me are some way, there just simply isn't any way for me to do anything about anyone else.
+however, through a series of unfortunate events, I have learned/developde what I call "conceptual pertception" -- which isn't a new thing, it's just largely underused by anyone in society because it has to do with emotions; emotions happen (for me anyway), when the symbols that I believe were communicated to me, *do not turn out to be the way I imagined them to be*[^failed-expectations] -- and so the large part of perceiving/feeling/knowing what the other person is communicating, is *not* to work in symbol, but to instead perceive/listen to what is their desire; and "their" desire, is actually a reflection of *my* desire/will.
+
+I'm inspired now to tell you about "billy jean": billy (william) jean is a very interesting song, because ... I'll point it out:
+
+> billy jean is not my love;
+> she's just a *girl*, that thinks that *I am the one*
+> but *the kid* is not *my son*.
+
+I understand that the common way to look at this song is that billy jean is a woman that he slept with and that produced a baby. however, look instead for a moment at the idea that will-iam jean, the girl, the kid, and my son -- are all the same person: what you have is a woman that looks like a man, behaves like a girl and thinks that (whomever is listening to the song) is "the one" -- and (then) takes the place of "the father" saying that "the kid" (billy jean) is not her son. this song is "anatau" or antu/anu/ninhursag (for the sumerians). I found billy jean to be soul-mate (if you will) of "norma jean": look at desire from a man's perspective, and see that everyone wants to find out that they are "the one"...
+  billy jean is just a girl who thinks I (the father) am the one, -- but *the kid* (genderless) is not *my son* (the saviour), because I (the father) am not *the one*.
+  tl;dr - the "father" (desire) is *all that is*, and we make that desire "one" -- and that "one" is just a (literary/narrative/conversational) aspect into ourselves (ourselves mismo)....
+  maybe I'll try this concept again a little later. I'm having trouble putting into words how the many/father/all-that-is becomes "one" in every aspect of ourselves, as a reflection of what that "one" is: (from the one's perxpective) *my* love/cupid (me) (not your love).
+
+listen, and you'll hear your own desires in everything you encounter; hear, and you're trapped in the limitations of the symbols as they're presented.
+
+[failed-expectations]: I'm reminded of a part in tesla's autobiographia where he beleived that someone would come and ask him to implement his world system (where he wanted to implement global telepathy: brain to brain connection) and so he got really excited when someone from the company came to his door. he was so sure they'd want to install his world system, that it caused an extreme fit of anger and rage when all they wanted to know is if he thinks he's psychic and can read other's minds (the exact *opposite* of what he wanted to create, but symbolically equivalent: here's his opportunity to prove to the world that we can communicate *brain to brain* -- by showing himself a psychic...) lol
+
 ### specialisation: one/duality/many implementation
 - if I'm summoned, do I perceive the complete or am I a piece (of the frequency spectrum)
 ### let's see if we can make a worse one, though...
