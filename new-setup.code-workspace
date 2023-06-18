@@ -1,4 +1,7 @@
 {
+  "markdown.copyFiles.destination": {
+    "/**/*": "img/${documentBaseName}/"
+  },
 	"folders": [
 		{
 			"path": "."
