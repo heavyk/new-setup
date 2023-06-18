@@ -1,5 +1,14 @@
 # efficiency-profile
 
+## basic theory
+
+the basic theory is that your brain (probably the pineal) is responsible for converting strong emotion into perception -- as such, the things that cause negative emotion are things that *waste energy*. therefore, to try and get the human to stop wasting energy on things that it has no control over, it'll continue to attract/notice the things that cause hightened emotion, causing failure or death (in the case of negative emotion), or increased success (in the case of positive emotion).
+  this function of the brain serves as the "fitness function" for the evolutionary process -- optimising for the ones that can find a way to perceive things in a way which produces positive emotion.
+  obviously, one can use conditions like drugs/sex/music/etc to feel and perceive better, giving that positive emotion, and so those things are noticed and amplified, causing "addictive behaviour" -- because the brain is saying that these things produce positive emotion, and so therefore is attracting/desiring them more (and finding (symbolic) ways of getting more of it, too.)
+therefore, one can consider this part of the brain (probably the pineal) to be the energy conservation and optimisation function of the brain, doing its best to find more and more positive emotion/feedback -- giving the inhabiting consciousness the sense that it's doing well, on top, and in charge of its reality.
+
+## commentary
+
 ### 2023-05-29 21:56 - I could get it from someone else...
 
 > that person has something I want, so I can try to find a way to get it from them (or perceive myself to have an advantage),-- or, I could just get/become it myself.
