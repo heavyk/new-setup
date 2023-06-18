@@ -1,14 +1,12 @@
 # efficiency-profile
 
 ## basic theory
-
-the basic theory is that your brain (probably the pineal) is responsible for converting strong emotion into perception -- as such, the things that cause negative emotion are things that *waste energy*. therefore, to try and get the human to stop wasting energy on things that it has no control over, it'll continue to attract/notice the things that cause hightened emotion, causing failure or death (in the case of negative emotion), or increased success (in the case of positive emotion).
+my theory is that your brain (probably the pineal) is responsible for converting strong emotion into perception -- as such, the things that cause negative emotion are things that *waste energy*. therefore, to try and get the human to stop wasting energy on things that it has no control over, it'll continue to attract/notice the things that cause hightened emotion, causing failure or death (in the case of negative emotion), or increased success (in the case of positive emotion).
   this function of the brain serves as the "fitness function" for the evolutionary process -- optimising for the ones that can find a way to perceive things in a way which produces positive emotion.
   obviously, one can use conditions like drugs/sex/music/etc to feel and perceive better, giving that positive emotion, and so those things are noticed and amplified, causing "addictive behaviour" -- because the brain is saying that these things produce positive emotion, and so therefore is attracting/desiring them more (and finding (symbolic) ways of getting more of it, too.)
-therefore, one can consider this part of the brain (probably the pineal) to be the energy conservation and optimisation function of the brain, doing its best to find more and more positive emotion/feedback -- giving the inhabiting consciousness the sense that it's doing well, on top, and in charge of its reality.
+therefore, one can consider this part of the brain (probably the pineal) to be the energy conservation and optimisation mechanism of the brain, doing its best to find more and more positive emotion/feedback -- giving the inhabiting consciousness the sense that it's doing well, on top, and in charge of (creating/attracting) a better and better feeling reality (reward feedback).
 
 ## commentary
-
 ### 2023-05-29 21:56 - I could get it from someone else...
 
 > that person has something I want, so I can try to find a way to get it from them (and perceive myself to have an advantage over others that don't have it),-- or, I could just get/become it myself.
@@ -38,9 +36,10 @@ consider the process of sleeping: when tired, the mind is active with a lot of v
   I include the environment here, because in prior times, the earth had a megalithic setup which converted energy coming from the planet (and so therefore the sun) into a constant frequency which then empowered certain types of DNA that are resonant with that energy (box-consciousness). it is possible to try and rely on the environment for sufficient energy in order to sustain, but it's *FAR BETTER* to be resonant with one's own source and receive the energy *directly*, without needing certain conditions in order to feel energised.
   for example, I've heard that if you sleep in one of those pyramids or have a giant chestahedron setup, then you'll need a lot less energy and sleep less frequently, but these are conditions -- and if they go away, then then what can be done? it's better just to be low resistance in perception (pineal) allowing more energy (it's literally infinite) from your source, than to rely on external conditions.
 
-### 2023-06-18 12:05 - manipulation is a waste of energy
+### 2023-06-18 12:05 - manipulating others is a waste of energy
 
 if I'm going to spend the time and effort to try and manipulate someone else, [that energy is lost](#2023-06-18-1146---all-energy-expended-is-lostmanifested-and-energy-gained-is-receivedallowed) and all I'm really doing is getting them to *believe something* about me or something else -- when, if I'm getting that good at getting others to *believe* something, then why not just get *myself* to believe it?
   sure, it seems at times that if I can just get someone else to believe something, then that's the *fastest* way to get something -- and it often times it is, but it's not the *most efficient* -- and that's because the next time, I have to again get them to believe whatever again, cause I still don't believe it for myself (or believe myself to be good enough to receive it).
+why not just manipulate myself instead, that way I'm able to receive/allow even more energy?
 
 [foil-principle]: when someone emits negative emotion -- or more importantly when negative emotion is felt from someone else, it's OK (following LOA) to emit a response that feels the same back to them -- however, if it feels like negative emotion to me, that's *my problem* -- and so it's recommended to store that energy, find a way to feel better about it and then reemit it back to them at a later time in a good-feeling way. if I just emit good-feeling energy, I'm a charactor/emitter, and I'm asserting into their experience, but if I'm returning energy back to them that has been transformed into something that now feels good, I'm not asserting into their experience (meaning they can only reflect back my good-feeling energy back to me, or try and be assertive to me).
