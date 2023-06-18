@@ -11,7 +11,7 @@ therefore, one can consider this part of the brain (probably the pineal) to be t
 
 ### 2023-05-29 21:56 - I could get it from someone else...
 
-> that person has something I want, so I can try to find a way to get it from them (or perceive myself to have an advantage),-- or, I could just get/become it myself.
+> that person has something I want, so I can try to find a way to get it from them (and perceive myself to have an advantage over others that don't have it),-- or, I could just get/become it myself.
 
 ### 2023-06-18 08:45 - lies and untruths
 
