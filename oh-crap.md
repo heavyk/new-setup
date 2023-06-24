@@ -22,3 +22,7 @@ so as it turns out, there are a lot of great mainfestations that are possible bu
   as many positive aspects that any manifestation (tragic or not) has, it also has negative aspects, which can be viewed as positive (foil), then the manifestaion *must* gain all of both the positive and negative aspects in the manifestation. it's the most difficult (some might say impossible) manifestation to attain, so it'll never happen: pipe dream.
   sometimes the better world is both worlds, and you get to choose if you want to view them separately (1,2,5,7) or together (2,4,6).
     huh, I just noticed, that probably corresponds to genetics as well: XYXX and XYY. interesting cause that would cause for something strange in the attraction: we'd probably be basically invisible to each other.
+
+#### 2023-06-23 23:33 - it took me -4 minutes to write that...
+
+or I looked at the date wrong. (gatta get that extension running again... sheesh)
