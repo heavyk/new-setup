@@ -41,4 +41,4 @@ we (once we're 50-insects) will go all over the place on earth, each manifesting
 
 #### 2023-06-25 03:11 - along the way to making the species
 
-I  think it would be fun to be in female form, an energy so dark, only some people will be able to perceive it. any image that they desire can be made tto be seen (or who knowss what)
+I think it would be fun to be in female (receptive, a black so dark that no light is reflected) form, leaving only the really high frequency x-rays and stuff; an energy so dark, only some people will be able to perceive it. any image that they desire to see can be superimposed on top (or who knowss what -- we've got to explore all the possibilities, cause we're thorough).
