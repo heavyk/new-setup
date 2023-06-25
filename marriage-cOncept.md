@@ -49,4 +49,4 @@ it's theoretically possible to go more than one penis or vagina, and some will m
 
 ### 2023-06-25 03:29 - a third type of sex chromosome: Z
 
-one of the things I think would be fascinating project in the future, would be to design a new sex chromosome that's all based on attraction: pure desire. like we've got the 2nd (Y) and the 5th/7th (X), but we don't have a 1st ray comparable, and so I think to make a proper 52 oarsman setup, it would be YZYXX, which is a facinating idea because I like stars and pen-rose tlles
+one of the things I think would be fascinating project in the future, would be to design a new sex chromosome that's all based on attraction: pure desire. like we've got the 2nd (Y) and the 5th/7th (X), but we don't have a 1st ray comparable, and so I think to make a proper 52 oarsman setup, it would be YZYXX, which is a facinating idea because I like stars and pen-rose tlles.
