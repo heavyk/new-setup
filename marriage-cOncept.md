@@ -46,3 +46,7 @@ I think it would be fun to be in female (receptive, a black so dark that no ligh
 ### 2023-06-25 03:20 - in addition to alternate gender options than bipolar
 
 it's theoretically possible to go more than one penis or vagina, and some will manifest many of them and have multiple partners at the same time action, which is actually preferrable, because later the species doesn't reproduce by sex (because where do you put the baby), but by combining thoughts (symbolic), or desire producing the conceptual resonance that'll be the creation -- again more, than two people can contribute to the creation, and by nature their DNA is constantly adding one chromosome at a time, taking equal length to explore each and every chomosome count (cause we're thorough).
+
+### 2023-06-25 03:29 - a third type of sex chromosome: Z
+
+one of the things I think would be fascinating project in the future, would be to design a new sex chromosome that's all based on attraction: pure desire. like we've got the 2nd (Y) and the 5th/7th (X), but we don't have a 1st ray comparable, and so I think to make a proper 52 oarsman setup, it would be YZYXX, which is a facinating idea because I like stars and pen-rose tlles
