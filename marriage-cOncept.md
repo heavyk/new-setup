@@ -9,3 +9,10 @@ my primary concern (if I'm going to be going this (1,6,5,7) setup) is to go neve
 originally my desire is to construct the insect race, which has built in 2nd ray capability (like me), and so the desire there is that I DON'T WANT TO BE 2nd ray. I want to be 1st ray, so this has to be planned for as well (obviously she can be 2nd) -- and pair with my Y (like a binary+ star system).
   the motive behind this desire is found in that if I/we become an insect race (of essentially stars), we will all go (as a group) REALLY SLOWLY. (there's that gradualist's wet dream again: billions and billions and billions of years evolving, lol)
 the idea behind the insect race is designed to be a smoothe transition, as we'll all start to become more and more similar and synchronised with each other. (we'll do the universe next; one step at a time; no big jumps)
+
+any marriage that happens resonates with that desire in some way or another (cause that's what I want).
+  anyone that wants anothing differently, let's just call that "early access" as they're alpha testing the insect species (in my present state). first time's the charm, right?
+    I expect another time we'll do this again in 2034 as well (second time/week is the charm, right).
+      and then on to the third time again in 2056 (cause I've heard 3rd time/week is the charm).
+        a fourth week? I figure by then we're pretty much masters of own reality by then, and don't need to schedule any more testing phases, as we've got it working as intended by that point.
+          too far out to see it clearly, so we'll just have to wait and see, then adjust accordingly.
