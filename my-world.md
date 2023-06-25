@@ -50,3 +50,4 @@ and so because my world is *only* gradual change, change is happening for me so 
     anything that is rapid change is strictly forbidden ON THE OUTSIDE (inside is OK), and it's 100% assured that I (me personally in another timeline before entering this body) have for sure setup a system which ensures that I go this slow, or I die and start over.
       if I can continue to loweur my resistance, I will have less and less impacts. nosebook is actually *in my benefit*, and will be replaced if they can't keep me going at the rigth speed (really slow and low (that is the tempo)).
       always changing; really slowly.
+        -mr-motor
