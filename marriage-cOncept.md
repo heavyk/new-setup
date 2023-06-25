@@ -42,3 +42,7 @@ we (once we're 50-insects) will go all over the place on earth, each manifesting
 #### 2023-06-25 03:11 - along the way to making the species
 
 I think it would be fun to be in female (receptive, a black so dark that no light is reflected) form, leaving only the really high frequency x-rays and stuff; an energy so dark, only some people will be able to perceive it. any image that they desire to see can be superimposed on top (or who knowss what -- we've got to explore all the possibilities, cause we're thorough).
+
+### 2023-06-25 03:20 - in addition to alternate gender options than bipolar
+
+it's theoretically possible to go more than one penis or vagina, and some will manifest many of them and have multiple partners at the same time action, which is actually preferrable, because later the species doesn't reproduce by sex (because where do you put the baby), but by combining thoughts (symbolic), or desire producing the conceptual resonance that'll be the creation -- again more than two people can contribute to the creation, and by nature their DNA is constantly adding one chromosome at a time, taking equal length to explore each and every one (cause we're thorough).
