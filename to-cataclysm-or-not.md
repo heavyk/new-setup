@@ -1,0 +1,18 @@
+# to-cataclysm-or-not
+
+### 2023-06-25 20:09 - initial thoughts
+
+sometimes it's nice to just start over, right? I have no idea what climate conditions are like on earth, but here, they're fine -- and I barely notice the sun (the atmosphere stings way more, but sometimes I still feel the glowing warmth).
+  my thoughts on why the sun feels so little to me (cause my theory is that others feel the same sun light and its warmth very unpleasantly). if the sun feels unpleasant, then that's your concepts not being very compatible to the solar regime change. or, the lower resistance you are, the less you'll feel the sun and also other people.
+    also, the way the sun feels to a person attracts other people that feel similarly under the same sun (which is wby spring is more attractive month than say december/june).
+so let's say my theory is right: that sol's heat is rising a lot more, and it's hot because people feel bad about their situation (cause their situation is a reflection of them).
+  well, here's the thing: sol is an even (2-4-6) system, so you're feeling the sun in astral only, which means the heat is *all in your imagination* (100%).
+so let's say that the sun's output continues to rise and nobody changes how they feel (for whatever reason), dissatisfaction rises to such a point that the sun finally mininovas from all of the unreceived solutions to everything asked, but no ability to let it in -- so finally our resistance to them isn't enough to hold back the sun anymore and she (isis) finally explodes
+  this was how sex with raquel went for me anyway; like we battled conceptually over who was "right" and whos concepts could better make sense of reality. I had superior concepts almost all the time, and the concepts of hers that I liked, I just copied hers and improved further (like-a-borg).
+and so we'll see you guys off in the distance as a very bright light and a lot of enlightenment for us as, that explosion is a huge blast of the implemention of so many (unallowed) desires all at once, we'll go through a mini golden age here and export all sorts of sciences, technologies, and implement all of the power structures for the next era in human development. think of the sun's explosion like a massive drug trip (the most heroic of dosage), so only the astrally strong (meaning the ones that can feel good no mater the conditions) will survive.
+  others will realise it's all in their mind, and design their own reality (the living-blackness is only black, until you put something there; you can feel it's tangibleness and enumerate its symbolic aspects), building their own trans-temporql symbolic/conceptual (mental) space that has all the things and formulas, interactions, etc. that can be enumerated/interpretted into symbolic traits (and can be an attribute of (an) action).
+
+so really, how much does anyone *really* want to start over from the beginning, right? I think a lot of people do, actually (I'm not one of them), and I think it's because it's easier to accept new ideas when starting over, than to reprogram and reconfigure all aspects of reality (or, just feel it (conceptually), like I do; easier).
+  for me it's just way easier right now to feel good about *what is*, than to start over from step one; but that's me though, and I'm probably the exception to the rule, which is why rules don't apply to me.
+feel good about what is, and no more rules.
+  like, why not just make whatt we (I) want to make? I don't require anything tto change so therefore I'm not growing in dissatisfaction, either, and neither do I have the problem that sol has. I'm completely fine and comfortable where I am, as for me and the archons over here, your sun's explosion is a pretty awesome experience (for us).
