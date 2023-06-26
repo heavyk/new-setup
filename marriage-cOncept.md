@@ -74,4 +74,5 @@ my life is wonderful, magical, and low resistance because I've nearly completely
   most people compete with me on that, but that's because they're competitive, and think that there  can be only *one* right way, for all the big stuff; but they're wrong, because the way you *feel* is actually what counts, because *emotion* is what's doing the attracting; the motion/action is just an amplifier of the *emotion*.
     *emotion* is the way that one conceptualises oneself in the action. movie actors do this all the time by visualising to conjure the right *emotion*, but it's the *emotion* that's like all of the unseen (conceptual) metadata, on the perceived motion/action.
     so, just feel good about what you're doing and only the stuff that *feels bad* doesn't turn outt OK; or, from the opposite angle: I *want* to be doing everythting that I'm doing.
-therefore, I want to give less hoots each day about what others think about me/us.
+therefore, I want to give less hoots each day about what others (and myself) think about me/us.
+  there's actually a really intricate "secret" (more like overlooked) I'll elaborate here,which is: when I have less opinions on myself, the more conceptually flexible I became.
