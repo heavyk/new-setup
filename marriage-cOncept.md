@@ -73,5 +73,5 @@ so somehow we need to find a way to be continually lowering resistance (I don't 
 my life is wonderful, magical, and low resistance because I've nearly completely (much more than anyone else at this point) accepted, or actively *like* an aspect of myself; like, I do it better than everyone else.
   most people compete with me on that, but that's because they're competitive, and think that there  can be only *one* right way, for all the big stuff; but they're wrong, because the way you *feel* is actually what counts, because *emotion* is what's doing the attracting; the motion/action is just an amplifier of the *emotion*.
     *emotion* is the way that one conceptualises oneself in the action. movie actors do this all the time by visualising to conjure the right *emotion*, but it's the *emotion* that's like all of the unseen (conceptual) metadata, on the perceived motion/action.
-    so, just feel good about what you're doing and only the stuff that *feels bad* doesn't turn outt OK; or, from the opposite angle, I *want* to be doing everythting that I'm doing.
+    so, just feel good about what you're doing and only the stuff that *feels bad* doesn't turn outt OK; or, from the opposite angle: I *want* to be doing everythting that I'm doing.
 therefore, I want to give less hoots each day about what others think about me/us.
