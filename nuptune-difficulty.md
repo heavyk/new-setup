@@ -28,4 +28,7 @@ health solutions?
   - because each change is made individually, and each individual has it's own desire (I-chromosome -- or Z), then the implementation will be a reflection of their position in conceptual space relative to their pen-rose "identity" frequency. we'll have tried every combination desired, and because of the pen-rose, each path to get the desire is unique.
   - also this is good beause it accomplishes the lower resistance preference over good-feeling, by learning to feel good about all concepts in some way shape or form. more diversity means a broader, more continuous spectrum.
   - finally, this capability of making changes mentally is the precursor to adjusting one's genetics and perception in order to *appear* (and move) differently.
-  - lastly, it's also a precursor to reproducing conceptually, by building the new reproduction/copy of another ("wow I like him!" ~copy~ "I wanna try her out and see what she's like" ~copy~) "let's make a new version of ourselves, with our combined traits and maybe some new ones."
+  - lastly, it's also a precursor to reproducing conceptually: (by building the new reproduction/copy of another):
+  - "wow I like him!" ~copy~
+  - "I wanna try her out and see what she's like" ~copy~
+  - "let's make a new version of ourselves, with our combined traits and maybe some new ones." ~zoink; splat~
