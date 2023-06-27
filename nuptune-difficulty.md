@@ -7,3 +7,14 @@ I was thinking about how I want to become, because the whole thing is for *me* t
     (they'll all start out thinking they've already been around for that long (noble-lie), right -- the hardware infallable, but we'll notice many fails in software that'll need bugfixing/updates as well)
 
 one other way to think about it is, when the species officially starts, is when other people join it -- and I suppose we could think of that as a sort of "wedding" -- a slow rollout wedding :)
+
+### 2023-06-27 04:01 - initial implemsentation ideas
+
+bea
+marty/brett
+johnathan/david
+
+- not intending to do genetics -- intending to purposefully attract negative ideas to fuzz/alter perception through learning to find new ways to "see"/connect that concept (in relation to other concepts).
+- the idea is to build a (nearly?) all X pachage, with the other chromosomes containing the parts of our existing other 21 pairs, splitting the genetics wide -- very wide -- like the goal is to be thousands, millions, and eventually zillions of chromosomes (lol, I wonder how mother nature fill fix our scaling problems? -- cause technically, it's not really our problem, but one inherent to the species, which itself will solve in a future evolution). also the many chromosomes act as a stability to ensure that genetics stay relatively constant (not much novelty)
+- instead of novelty, we aim to gain in diversity. one solution I have for this is a new chromosome that is like 2 (or more) magnifying transmitters, which resonates with itself in a way which continually produces higher and higher harmonics (it's a good reflection of itself with low losses/resistance). put one of those at the top (serves as desire), which will produce a very high frequency -- and that high of a frequency will not increase the speed, but instead be an traversal outward on one of the *3* (cause our new race will have 3 "genders" -- or alignments/initial directions on one of the 3 pen-rose tiling). the higher the frequency, the deeper down into the pen-rose you've gotten. the most diverse things are a frequency so fast that it's not even distinguiahable ever by any instrument as noise (impossible tto tune into something that fast -- but harmonics are available -- just like desire -- and when those harmonics are recognisable and resonate with other concepts, a new manifestation (of novelty or diversity) is right nearby temporally) we're opttimising for diversity.
+- novelty, diversity, and joy/fun|resistance/effort are the mantra of this DNA setup. there are three aspects, two are qualitatively similar and the others are opposite. it could be two constants and one dynamic, or (our case will be) two dynamic, one constant/linear, one infinite.
