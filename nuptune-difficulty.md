@@ -1,4 +1,4 @@
-# nuptune-difficulty
+# neptune-difficulty
 
 ### 2023-06-26 22:11 - initial ideas
 
