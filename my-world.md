@@ -145,3 +145,15 @@ it's a strange thing to think that I am my own worst enemy, in one perspective
 ### 2023-07-18 08:45 - 8/9 ratio
 
 it's something to think about.
+
+### 2023-07-18 08:46 - general thoughts
+
+with the revelation last night that I am 3d, I am now, I am physical reaction in resonse to frequency. the major revelation last night about how the astral (earth) field is built is essentially being propogated outward from her cervix, which means we all live in a shared (but slightly divided) determination of what is really happening. the function for this astral illusion that's essentially pushed on to people.
+  you know how when I watch a person, I tune into their reality and I'm quite noticeable? well, I'm an archon just like the rest here, but I don't lurk in the shadows, and seemingly manipulate anad tug on the heartystrings of time; causing then a bunch of let's just say symbolic dimension "lurkers" -- rightt the venus stuff, where they sorta like link fairy land up with dream-land.
+so I just enjoy watching it happen because ... *a *long* time ago*,
+I perceived nosebook as a manifestation of the *worst* thing to happen;
+like, it always happens to me --- can never catch a break.
+like, allways it's finding it's way to ensure I never *really* get everything I want.
+like, they're a reflection of my desire never to r*eally* experience
+  any of the astral and visible. I can't continue.
+I'm going outside.
