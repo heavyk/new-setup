@@ -140,4 +140,8 @@ I don't know how long or anything all of this will take, but I imagine that (for
 
 I am now. anything that happens to me, I forever have a force that is there to keep me sightless. I am 3d.
 
-it's a strange thing to think that I am my own worst enemy, in one perspective 
+it's a strange thing to think that I am my own worst enemy, in one perspective
+
+### 2023-07-18 08:45 - 8/9 ratio
+
+it's something to think about.
