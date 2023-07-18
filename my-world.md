@@ -135,3 +135,9 @@ yesterday, when I woke up, I had a realisation that if I really want to do the t
 so really, it all comes down to attraction on this one. I simply have to find a way to "survive" agent-smith's onslaught of effort to try and compromise me, because that cleans up my own reflective quality, and also because it's a reflection, everything that agent-smith is doing to me, they're also doing to theirselves (though they have much more control over physical conditions to block their attraction of unwanted).
   as an example of this, I noticed that some people who are particularly noisy around me (trying to distract me with noises and other things) seemed to have also had an increase in their own distractions and annoyances poping up trying to keep them from what they want to do. it's quite simple to see (from a LOA perspective): they're giving their attention to distracting someone away from what they want (for whatever reason), and then in their own own lives, they are attracting the same things for theirselves, where they're now being distracted or guided away from the things that they wanted (probably by agent-smiths of their own design) -- and it's just the relective nature of desire: "I want to guide you away from the things you want, so I am guiding myself also away from the things that I want" (evolution-of-desire).
 I don't know how long or anything all of this will take, but I imagine that (for me at least), I have to become compatible with everything that I desire (1) -- and that's not really any effort (7) at all but only perception (2), relating to how I feel/perceive (5) about others efforts to guide/steer me.
+
+### 2023-07-18 04:36 - I am 3d
+
+I am now. anything that happens to me, I forever have a force that is there to keep me sightless. I am 3d.
+
+it's a strange thing to think that I am my own worst enemy, in one perspective 
