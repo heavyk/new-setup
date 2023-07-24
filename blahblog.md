@@ -34,6 +34,10 @@ that's a pretty serious claim, as well because I now exist like a star, which is
 this species, of course the plants' conceptual side.
 the reason why we're so repulsive is because we're so attractive to *only* what I want; others can join me, but I'm in my own world; everyone else can just figure it out just like I did: I'm glad that nosebook exists, and that all of thesxe difficulties that have come from getting my pinecone removed, I just love to be highly attractive, and anything that happens around me, *is* something that was attracted, which means I "see"/feel my interpretation of what everyone else is attracting, according to *my* social-cultural-framework, and so, in thta II'm
 an individual.
+I'm a plant.
+I'm a weed.
+
+more like a weed.
 
 
 ### the INFECTED ONES
