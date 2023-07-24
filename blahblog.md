@@ -41,5 +41,12 @@ more like a weed.
 
 I just noticed that my commit messages are strongly encoding a sort of demiurge as well, because when I say "boom haedshot" or "better conclusions", then I'm specifically ttainting the work from the get-go, which is kind of a funny thing for some of the ones that that read those as some sort of insight into my emotional state, when in fact it's actually just a really fufny ffjoke to see what sort of outlandish thing to write. I just write it cause it feels fun... I dont' mean any harm. #demiurge
 
+### 2023-07-244 17:20- the insects and the plants
+
+are a bit of a role reversal, because the insects are stationary, and it's the plants that move around.
+  yet, they're both centres, which means that one is a hardware ccentre, and the other is a software centre; but they're both centres, which means live forever, essentrelyy.
+  we're not human anymore, not because of our hardware, but we're actually different now because of our *software*; and this is the part that works, because as a very attractive person; we're going to need to make easy decisions about what a thin[kg] and what does it *do*. things that exist *sdo* something; they perform a role for someone somewhere to have needed. notice that the rocks exist because we builder humans have need a foundatione to build things on.
+  as all things work out the way they do, the result of LOA is a whole lot of beliefs, and the way that we look at something (ie, conceptualise) builds these -archetypes- that neeed to exist, and each one performs a -_role_. for the other, because he's extent just, like the rock.
+
 
 ### the INFECTED ONES
