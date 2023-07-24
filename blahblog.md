@@ -26,4 +26,14 @@ it's fully possible that someone could take the species that I want to make, and
   it's possible to create hybrids as well, because for me, the goal is to figure out how the different layers?/forms of perception operate with the physical genetics, and I also find it'll be quite normal for human women to give birth to these hybrids as well, which will be very interesting because then they can *really see* (and interact) with a reflection of their own perception.
 what anyone else does with tthe genetics (and the corresponding understanding) that I produce, really isn't any of my business (or problem), as everyone else is still attracting everything, as they are. they'll get the consequencEs of their own attraction. genetics can not compensate for rising resistance/dissonance, and neither can technology.
 
+### 2023-07-24 16:57 - a second species is also in the works
+
+I noticed that in addition to the insect species, there is also a plant species that is being created, which is in itself an idology built on top of "it's all attraction" -- where we're essentially just like plants: we make the things come to us.
+it's kind of a software thing more than a hardware, where now with everything being "it's all attraction", then everytthing is a reflection of me (and my attraction), but in addition to that, I function as a centre, a point of consciousess that is focused in a way where *everythingv is my cconcept of how it is, ardound me".
+that's a pretty serious claim, as well because I now exist like a star, which is forever; if others learn to see everything around tbhem as a reflection of theirself, they don't need to worry as much about what they're attracting, because most of the output is in a frequency range which powerfully transforms the world around them. it's a pretty serious thing to think that with a slight conceptual adjustment in our world view, things will never (ever) be the same again: we're all centres, so it doesn't matter what anyone else is doing.... you don't need to be attractive, if 666 you're repulsive to everyone else in their perception, then you're a centre. you're in your own world, and there's nothing anyone else can do about it.
+this species, of course the plants' conceptual side.
+the reason why we're so repulsive is because we're so attractive to *only* what I want; others can join me, but I'm in my own world; everyone else can just figure it out just like I did: I'm glad that nosebook exists, and that all of thesxe difficulties that have come from getting my pinecone removed, I just love to be highly attractive, and anything that happens around me, *is* something that was attracted, which means I "see"/feel my interpretation of what everyone else is attracting, according to *my* social-cultural-framework, and so, in thta II'm
+an individual.
+
+
 ### the INFECTED ONES
