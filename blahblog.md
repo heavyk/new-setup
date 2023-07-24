@@ -1,4 +1,4 @@
-# blahblog
+# blahblog ---------------------------------------------------------------------------------
 
 ### 2023-07-24 14:55 - conditions
 
@@ -50,6 +50,9 @@ are a bit of a role reversal, because the insects are stationary, and it's the p
   and roll insects,
   who you gonna plant?
 lol.
+  how many lines wide is this anyway? ------------------------------------------------------
+  that many, I say.
+  I hope I remember to insure the docuent stays at the same width; if it changes that, would be bad.
 
 
 ### the INFECTED ONES
