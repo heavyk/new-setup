@@ -39,5 +39,7 @@ I'm a weed.
 
 more like a weed.
 
+I just noticed that my commit messages are strongly encoding a sort of demiurge as well, because when I say "boom haedshot" or "better conclusions", then I'm specifically ttainting the work from the get-go, which is kind of a funny thing for some of the ones that that read those as some sort of insight into my emotional state, when in fact it's actually just a really fufny ffjoke to see what sort of outlandish thing to write. I just write it cause it feels fun... I dont' mean any harm. #demiurge
+
 
 ### the INFECTED ONES
