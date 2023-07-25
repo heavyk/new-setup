@@ -89,3 +89,20 @@ what she calls innocence, I call pure materialism -- where I'm purely interested
     "inanimate" objects still have a purpose for existing, and so they can be "felt" in the sense of their *duty* to perform inside of the experience. they are actors (not the creator itself) playing a role in present.
   the ability to move my consciousness around to anywhere I desire to focus is the *opposite* of innocence, in my (humble) opinion -- especially considering the traditional definition of innocense, meaning having not experienced something in the physical.
     my consciousness does not experience any physical sensation, so actually, *in that sense*, I remain innocent.
+
+### 2023-07-25 02:07 - the scandal of particularity
+
+@[youtube](https://youtu.be/rky3XeM7-X8?list=PLIlatssdqY5OjyLPvnkBlfABfIcwpa9tf&t=218)
+
+> the fact that the present has to happen in a moment and to something particular
+
+a thing is real and exists when it does work, which is that it changes something.
+the currency which makes something "*real*" in the physical is that it does work.
+
+> christ's incarnation; the fact that he had to be born at a certain time or place.
+> why that time? why that place?
+> it seems scandalous that the divine should touch one particular moment,
+> instead of all moments.
+
+it's all attraction: watch a tesla coil (or an electrical storm) for  a while and wonder why does the lightning strike that one spot and not the entire earth all at one time?
+I really feel like we should petition God to adjust the way that lightning works so that all points of the earth (or conductive plate) should be struk, individually and with perfect distribution of all of all of that lightning's powerful electrical charge, so that everything is fair and balanced; nothing meaniful, nothing exceptional, and nobody special anymore. banish uniqueness, because we all want equal and undifferentiated experiences.
