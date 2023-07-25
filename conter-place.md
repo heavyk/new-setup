@@ -20,3 +20,10 @@ he thing is, that because I exist, everyone else also exists. welcome to forever
 I forgot to feell you that you're all stoff to resort to living forever.
 welcome to eternity.
 how's that for a my this.
+                  spacing-----------------------------------------------------------------
+                  I wish I had more lines. I wonder if I can turn my monitor sideways.....
+                  it seems like a better plan, and the other problem is I want my cursor always in the centre of the screen.
+                  I hate having to look down at the bottom of the screen.
+                  I need a breake. this is some strong weed.
+                  very planty. .............................................................
+                  what in the world? how did the spacing change?
