@@ -27,3 +27,7 @@ how's that for a my this.
                   I need a breake. this is some strong weed.
                   very planty.  ........     ...............................................
                   what in the world? how did the spacing change?
+                  I need to remember to add 93 to the prefererences file, but I'm likely not to remember. I wonder if I'll forget.
+                    there's no telling because I'm so stoned, tthese are all verhy abstract experiences, but I'm still only seeing physical, that little of it gets transferred across, are the conceptual equivalents that get kind of encodedd in my mind, and then I live out the  "consequences" of that perception.
+                    they attract new things in reality for me to figure out how to perceive those things in physical, which is basically what I do best, because I perceive symbols from a conceptual perspective, which means that I existt as a concept
+                    I am now.
