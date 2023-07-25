@@ -25,5 +25,5 @@ how's that for a my this.
                   it seems like a better plan, and the other problem is I want my cursor always in the centre of the screen.
                   I hate having to look down at the bottom of the screen.
                   I need a breake. this is some strong weed.
-                  very planty. .............................................................
+                  very planty. .........     ...............................................
                   what in the world? how did the spacing change?
