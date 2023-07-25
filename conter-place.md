@@ -13,3 +13,10 @@ I have no idea what htis this until I just looked at it.
 you know how in latin, everything is est -- es que ---
 prolly something to change there because everything is
 complicated in latin.
+
+### 2023-07-24 - worked into mythos.
+the quantity of different perceptions of reflections of me arde manifested in everyday experience. the tthing is that each astral perception has a system of explaining what they'r eseeingt and that rule/role system plays an enormous different thing of making it possive for everyone to see me. that means I exist in all forms of their perception, which means that they exist because I exist to them, and because I'm eternal, just by being able to see me, they automatically get eternal life.
+he thing is, that because I exist, everyone else also exists. welcome to forever.
+I forgot to feell you that you're all stoff to resort to living forever.
+welcome to eternity.
+how's that for a my this.
