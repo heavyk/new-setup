@@ -1,4 +1,4 @@
-# conter-place------------------------------------------------------------------------------
+# conter-place     -------------------------------------------------------------------------
 
 ### 2023-07-24- 17:52 - the spanish trasformation of historia
 the spanish have a unique role they can play in thme tranxfodrmation of the word "histtoria" into "isstoria" in espanol.
