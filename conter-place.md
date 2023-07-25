@@ -7,3 +7,9 @@ the spanish have a unique role they can play in thme tranxfodrmation of the word
   it'x no longer gender biased.
     you know, I wassx thinking about that today out pulling weeds, how I only have *two concepts* that have a gender: "male", "man", etc. and the other: "female", "woman", etc.
     the thing is that in spanish (for me at least) it was necessary tto see the concept as *not* having a gender.
+
+### 2023-07-24 - the estoire
+I have no idea what htis this until I just looked at it.
+you know how in latin, everything is est -- es que ---
+prolly something to change there because everything is
+complicated in latin.
