@@ -25,7 +25,7 @@ how's that for a my this.
                   it seems like a better plan, and the other problem is I want my cursor always in the centre of the screen.
                   I hate having to look down at the bottom of the screen.
                   I need a breake. this is some strong weed.
-                  very planty.  ........     ...............................................
+                  very planty.                                   ...........................
                   what in the world? how did the spacing change?
                   I need to remember to add 93 to the prefererences file, but I'm likely not to remember. I wonder if I'll forget.
                     there's no telling because I'm so stoned, tthese are all verhy abstract experiences, but I'm still only seeing physical, that little of it gets transferred across, are the conceptual equivalents that get kind of encodedd in my mind, and then I live out the  "consequences" of that perception.
