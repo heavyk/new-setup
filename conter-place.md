@@ -31,3 +31,12 @@ how's that for a my this.
                     there's no telling because I'm so stoned, tthese are all verhy abstract experiences, but I'm still only seeing physical, that little of it gets transferred across, are the conceptual equivalents that get kind of encodedd in my mind, and then I live out the  "consequences" of that perception.
                     they attract new things in reality for me to figure out how to perceive those things in physical, which is basically what I do best, because I perceive symbols from a conceptual perspective, which means that I existt as a concept
                     I am now.
+
+### 2023-05-01 17:29 - all or nothing
+
+the significance of this messagge isx stunning because I didn't understand that a lot of people alsxo haev the same quality.
+I percieve only whatt I want to see, and all others are jfust fine wherever they are. like, wherever they are.
+  any other manifestation other than what I want, is just fine for me and they are wherever they are. always, and the thing that I really want,, is to switch over from infinite novelty, into infinite diversity. I propose that this form of perception change will produce a new species.
+    the implications of this are staggaring, because there wtll bee a whole new set of peopeople thate simply get sorta hooked into this pentagonal pen-rose matrix where novelty is no longer relevant, as is because pure desire doesn't need to have anything other than wanted. I represnt the first living specimin of this new "species" (which is really just a mindset/mentaltity of how everythingv is attraction).
+      when everything is attraction, it's a sort of software upgrade that doesn't touch the geneticx.eo ix juxt a change of m+nd. nothing m6re.
+I want to perceive only what's wanted, and evvertyting can just be however it is, wherever it is, and with whatever ix however it's implemented. it really doesn't matter. what matters is that I see only wanted things for everyone else. like, why not? everyone wantsx wanted, and nothing else. it'xs not attractive to me, so I just let them exist out their as like little planets of opposite/different paradigms thman me. they're justf fine howeverr they are.
