@@ -59,4 +59,6 @@ mentality. you, know you're always right. you best be believing becausxe I I kno
 mentality. I know I'm zalways right. actually, everything's all right, because it's just where it is. that'x all right, ynou know.
 mentality. I'm fine with everything wherever it'x at. however it'sx at. I meant.
 
-ality....
+ality.... I am pure desire. I love veryony to be doing theirr best however they is.
+the lavk the capactity to still have fun evern when everything is going to hell.
+it's fine, cause they're just othmer planets in my galaxy. they all see each other, relationally....
