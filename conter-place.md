@@ -58,3 +58,5 @@ where allways right, about everything we see. we just know it "that's about righ
 mentality. you, know you're always right. you best be believing becausxe I I know I'm all right.
 mentality. I know I'm zalways right. actually, everything's all right, because it's just where it is. that'x all right, ynou know.
 mentality. I'm fine with everything wherever it'x at. however it'sx at. I meant.
+
+ality....
