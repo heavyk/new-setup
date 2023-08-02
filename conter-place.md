@@ -49,3 +49,12 @@ I'm going bzak out to be with the plants. I've lately been very fascinated with 
     which ix why I've built my own implenmentations of contrast, to keep me from going too fast (a sortof agent "smith" just like all of them). they're all ensuring that I make a successful transition into maximum diversity, smooothelye.
 drugs are pretty crazy how they turn others symbols into reality, through my filter of perception. I don't really enjoy so much going this fast, because I really like seeing things in the physical as "all desire",
   which is like the moso important thingt to notice, because then when I see everyone out there getting exactly what they want, they are doing it by what's important to them, which is all fine. howevr it is, they're just getting everything they want therough *their* form of perception; not mine.
+
+eeverybody is always gettingv what they wtant; aall of the tiime.
+eeverybody is always gettingv what they wtant; aall of the tiime.
+eeverybody is always gettingv what they wtant; aall of the tiime.
+
+where allways right, about everything we see. we just know it "that's about right"
+mentality. you, know you're always right. you best be believing becausxe I I know I'm all right.
+mentality. I know I'm zalways right. actually, everything's all right, because it's just where it is. that'x all right, ynou know.
+mentality. I'm fine with everything wherever it'x at. however it'sx at. I meant.
