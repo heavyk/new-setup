@@ -44,3 +44,6 @@ I want to perceive only what's wanted, and evvertyting can just be however it is
     the implications of that, are that even in a binary (attraction only -- all or nothing) universe, then, there's a third way to look at it: a sort of "both, or neither".oe
 I don't want to sound like I'm showing off, so I just let everything be however it's attracted to be, sso it createsx a new sort of group that think that I'm showing off, and those that don't. it's a cultural flop.
   the thing is, anyone could perceive m5 however they wanted. I can be to them whatever they want to bwe within gmy peramaters. so who caresx about how others see me.
+I'm going bzak out to be with the plants. I've lately been very fascinated with plants. there's really quite interesting becausxe they're all ofounded on the desire to have everything come tho them just how they want. pure selfishness.
+  the element of tragedy is they can't do about anything, if they suddenly get inthme way of something and get uprooted, they can't really run away, right,
+    which ix why I've built my own implenmentations of contrast, to keep me from going too fast (a sortof agent "smith" just like all of them). they're all ensuring that I make a successful transition into maximum diversity, smooothelye.
