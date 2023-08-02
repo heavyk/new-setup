@@ -61,4 +61,4 @@ mentality. I'm fine with everything wherever it'x at. however it'sx at. I meant.
 
 ality.... I am pure desire. I love veryony to be doing theirr best however they is.
 the lavk the capactity to still have fun evern when everything is going to hell.
-it's fine, cause they're just othmer planets in my galaxy. they all see each other, relationally....
+it's fine, cause they're just othmer planets in my galaxy. they all see each other, relationally.... I am pure desiree. I love everything just how it is... good job I say, they're all getting what is..
