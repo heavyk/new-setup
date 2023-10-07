@@ -138,3 +138,7 @@ is our planet venus. venus (earth) is different than venus (the 2nd planet from 
   venus (the earth) doesn't care; she's smokin hoooot. more sun please. goin to the beach so they can all see m5 bathe.
 ereshkigal (venus of heaven) on the other hand, has all these procedures for the ideal reality to show up, but they never happen because everyone's expectation is so low, and the bar is so low, and the process is all wrong. she's upset. all the time. (she's no maiden of come see how beautiful I am, she's only process of calculated desire now: the hag).
   I just noticed what this is saying in an esoteric sense, and it's is that venus of earth had to defeat herself with venus of heaven, until she (the sun) becames once again "like the father" (the inner earth sun). it's a symbolic representation of the way that one becomes a centre, where everyone and everything is relative to me and I am now on the outer side of the sun -- so essentially a reflection: the outer like the inner and the inner like the outer.
+
+### 2023-10-07 02:47 - shara is the sun
+
+@[youtube](https://youtu.be/UB-GvWozzSk?t=711). shara is the sun., and so when he threw himself at her feet, this too is a recognition that even the sun is relative to earth., her inner like her outer (cause the sun on the inner is always a reflection of me/earth).
