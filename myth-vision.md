@@ -169,6 +169,6 @@ it's important to startt out by noting that if things are going slow, then he's 
 
 @[youtube](https://youtu.be/UB-GvWozzSk?t=1410). the worst is coming. it's all going to happen just like she says it will. better prepare for the worst. he *knew* the demons were coming to him (ie, attraction). prepare to becoming the victim instead of the victimizer.
 
-#### 2023-10-07 04:38 - geshtiana warns everyone that bad things are about to come to saturn
+#### 2023-10-07 04:38 - gestiana warns everyone that bad things are about to come to saturn
 
 lol. she's so clueless... and he's like "no no no don't tell people that! they'll believe you! (and know of my shame)." they're a perfect pair. clueless and innocent in all the wrong times, and the herald of misfortune in others. lol.
