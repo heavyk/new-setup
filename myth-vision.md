@@ -163,7 +163,7 @@ misery loves company.
 
 #### 2023-10-07 04:24 - her interpretation
 
-it's important to startt out by noting that if things are going slow, then he's the one doing the plowing, but if things get going too fast, he's getting first the gang of guys, then she pulls out the strap-on, then his mother pulls out the strap-on. he's mortified. ezrth cannot go too fast, or else his worst fears manifest again: @[youtube](https://youtu.be/UB-GvWozzSk?t=1191). he's living a paradox in a sense: he's got to be the *worst* (worthless) shepherd to the people of the earth, to ensure he doesn't get the complete set.
+it's important to startt out by noting that if things are going slow, then he's the one doing the plowing, but if things get going too fast: @[youtube](https://youtu.be/UB-GvWozzSk?t=1277) -- first, he's getting the gang of guys, then his wife pulls out the strap-on, then his mother pulls out the strap-on (or maybe his mother was the first demoralizer -- unclear). he's mortified. ezrth cannot go too fast, or else his worst fears manifest again: @[youtube](https://youtu.be/UB-GvWozzSk?t=1191). he's living a paradox in a sense: he's got to be the *worst* (worthless) shepherd to the people of the earth, to ensure he doesn't become the victim again. poor dumuzi, with his broken pillar. not just his mother, but his wife too. so much ea in the coal hole. weep tears for him, cause those demons are on their way.
 
 #### 2023-10-07 04:34 - dumuzi's responce
 
