@@ -1,0 +1,88 @@
+# samson and delilah notes
+
+- samson is one of the "provedential fertility" stories (a woman cannot conceive a child, but then God allows it to happen): a child of strong desire
+    - isaac (from abraham and sarah)
+    - john the baptist (according to luke)
+    - samuel (the last judge --- which is weird because samson is *also* the last judge)
+    - mary (in apophraphal story in infancy gospel of james)
+    - joseph?
+
+
+- a man/angel comes to samson's mother and tells her she will conceive and have a sonne. she's then instructed to not eat wine or any unclean thing (pork -- prolly cause they have very similar eyes/DNA to us). angel peaces out.
+    - the no drinking grape products is a strange thing, because jesus drinks wine. it doesn't say of JTB drinks wine, but he eats wild honey (samson has a lot of parallels to JTB)
+- manoah (from the tribe of dan) finds out from his wife this incredible story that she (a barren woman) got impregnated by an angel of the lord, and so he's probably pretty impressed by this. (it's quite possible actually that he's sterile, and she's actually not barren)
+- manoah (presumably believes his wife) and wants God to send the angel again, to instruct them what to do with the child that will be born.
+- angel returns; and comes again to manoah's wife in the field (why he has to show up in the field is a bit strange). angel repeats the no grapes/pigs instruction.
+- manoah wants to *detain* the angel until he's made a *young goat* for him.
+- the angel says that even if he *detains* him, he won't eat of his bread, but offerings to the LORD are OK.
+- angel refuses to tell his name: meaning, the angel has no desire for honour or glory for delivering the new guy which will deliver the israelites from the philistines.
+- manoah takes a *young goat* (with a meat offering) and *offers it on a rock*.
+- the offering produces a wonderous display which they witness upon the rock. fire comes out of the altar and *up* to heavan (elijah's comes down, I think). the angel ascends to heaven in the flame. (power-display)
+- angel never returns to be seen again, and she bears a son; calls him samson.
+- the spirit of the LORD begins to move on on samson in the camp of dan (dan is an important pivot here)
+- samson *goes down* to timnath (which is a town at the very tip of sea inlet -- sorta looks like the point between the legs area). he sees a woman there of the daughters of the philistines.
+- samson *comes up* and tells his father and mother he has seen a woman there of the daughters of the philistines and wants her as a wife. he tells them to *go down* and fetch her for him.
+    - his father and mother say, yo, why do you not want any of your own kind? why do you want to wife one of our enemies? he tells (only?) his father to get her cause she pleases him. (clearly demonstrating that he is swayed by a member only his father has)
+- samson then *goes down* (with his parents) to timnath.
+- in the *vineyards* of timnath, a young lion *roars* at samson. (I feel like the lion symbol here is a reference to judah)
+- the spirit of the LORD comes upon samson and he rent the lion as samson would have rent a *young goat*. (having no weapon)
+- samson *goes down* to talk to the woman, and she pleases him.
+- after a time, he returns to take her (the bride of israel's enemies), and goes aside to check out the lion carcass in the vineyard (remember, he's anti-grape), and notices a swarm of bees and honie in the carkeis
+    - the spelling is strange here, because next verse it's spelled "hony", and cark-eis is also strange because "eis" = eyes
+- (a seeming large part of the story is redacted between verse 9 and 10)
+- so samson's father *went down* unto the woman (in timnath),  and made there (timnath) a feast (for so the young men used to do)
+    - this verse makes no sense, because either his father went down to the woman (in timnath), (but I thought he already went down in 14:5), meaning that samson stayed up north and decides to make a feast, (cause that's what young men do)... sounds like a bachelor party --- OR, for some reason in the redacted part his father returns back to the north, but then comes down for the bachelor's party/feast.
+- when they (who?) saw him (presumably samson), they brought 30 companions to be with him.
+    - this sentence is also unclear, and seems to indicate a missing part of the story because later on (14:20) samson's wife was given to his companion (not sure what happens to the other 29), *whom samson had used as his friend*
+- samson decides to give his 30 companions a riddle, and if they figure it out, they he'll give them 30 sheets and 30 changes of garments
+    - there seems to be some redacted conflict/rivalry amongst his companions and him, because why would he need to give them a change of clothes and new sheets/shirts? something must have happened here. (especially considering the way he pays the bet after losing)
+- however, if they cannot solve the riddle though, they have to give him the same reward (measure for measure). they agree to hear the riddle.
+- out of the eater comes fourth meat/eating, and out of strong/forceful/stiff comes fourth sweetness
+    - my theory: if the infraction that was redacted (and KJV so strongly suggests with innuendo) was his "companions" sleept with his wife, then it makes sense that this riddle is condemning them to the fate of the lion in the vineyard.
+    - out of the strong comes fourth sweetness his  prophesying that though the lion is destroyed and left in the vineyard, later out of it will come sweetness. samson is "the strong", and he's saying that no matter what, the lion will provide a place for the bees and the honie that they bring.
+        - there is a lot of JTB resonance here, which is probably where the gospel of luke got so much of the infancy narrative from (taking the symbols and extrapolating them)
+- 3 days they could not solve the riddle. *on the 7th day* (the day of rest when all creation is complete), his companions go to samson's wife and say, "entice your husband so that he can tell us the riddle, else we'll burn you and your father's house with fire."
+    - the verse there ends with "have you called us to possess us or impovrish us?" -- as if they know they can't figure out the riddle, and they can't afford 30 more garments (or whatever).
+- samson's wife weeps before him and says "do you hate me and not love me? you've put fourth a riddle to the children of my people and not told it to me" samson's like, "yeah, and I didn't tell my mother or father either; why would I tell it to you?"
+    - interesting thing to note is that "my people" -- so she must have been a princess or someone from the elite class.
+- samson's wife weeps before him for 7 days, the duration of the feast. then on the 7th day (the end of the feast), because she's been so aguafiestas, he tells her the riddle. she then relays the solution to "the children of her people"
+- again, *on the 7th day* (presumably this is the second week), *before the sunne *went down**, the men of the city tell him: what is sweeter than honie, and what is strong/forceful than a lion. (again equating samson with the lion)
+- samson replies "if you had not have plowed with my heifer, you wouldn't have figured out the riddle"
+    - this language pretty solidly sounds to me like there's some sexual innuendo in there (plowing/subduing/domesticating a female noun), and her domestication by them is heally how they solved his problem/riddle.
+- the spirit of the LORD comes upon samson and he decides to go kill 30 guys and take their garments to his companions.
+- his wife is given instead to his companion (prolly the guy that originally seduced her in the original story)
+- (another seeming large part of the story is missing here between 14 and 15)
+- however later during the wheat harvest, samson decides he's going to take a *young goat* down to visit his wife (seems he's up north again) -- and he's going to "go into his wife in the chamber" -- but her father won't let him
+    - this strongly suggests to me that her father must have known something about the previous events: the *young goat* must then be an offering, almost certainly -- probably because he was sent home (back to the north). it reads to me like "I'm getting horny again, and even though there were all these problems last time I was up there, hopefully this goat will smoothe things over a bit".
+- he father says, "I thought you hated her, so I gave her to your companion. what about her younger sister though, isn't she nicer? take her instead"
+    - again it's not explained why her father thinks he hates her, unless she decided to sleep with the companion (his "friend") or something -- but again this may have been explained between the chapters.
+- (another seeming large part of the story missing here)
+- samson decides "I'm going to become more blameless cause-of/than the philistines, even though I do them harm"
+- he takes 300 foxes and ties two of them tail to tail with a firebrand between them and sets them loose in the corn fields. he then lets them loose, destroying the vineyard and olives as well as the corn
+    - corn (also being a part of joseph's dreams) must be significant, olives was significant for the oil and vineyard cause samson hates grapes.
+- philistines are like, "what who did this?" "samson did cause he took a wife and gave her to his companion"
+    - the greek text talks about how he's friendly with his companion, and KJV has the meat reference -- so if samson is mars, then his companion is vulcan, and the woman is aphrodite (the triad from the golden ass)
+    - another interesting thing is it says "the groom of the shrub" -- the wife being equated with a sort of shrub, so the harvest of "wheat" (pyres) gives me the image of burning unwanted plants after the harvest
+- so the philistines took her and her father and burned them with fire
+    - in the greek I noticed has a lot of wordplay with "fire" symbolism -- the foxes light the fires and destroy a bunch of stuff, and so they light his wife and her father on fire, etc.
+- samson smote them hip and thigh (almost certainly symbolism I don't understand here), and put himself on top of a rock etam.
+- (another break in the story)
+- the philistines go up to judah and put on a show (it sounds to me like a challenge, like goliath was doing)
+- the isrealites want to know what the challenge is about, so they say they want to do to samson *just the same as he has done to them*.
+- then 3000 men come to samson and say, "you know the philistines are rulers over us? why are you starting stuff?" -- so samson replies: "*as they did to me, I did to them*"
+    - the reflective nature of samson and this story starts to show up here as the 3000 men from judah (the lion) are going to now *bind* samson *with new cords* and ship him off to the philistines, where the lion (strength/forefullness) will return the 3000 in deaths after a little bit of delilah honey.
+- the 3000 men of judah tell him they're going to bind samson and deliver him to the philistines, so he says, "swear to me you won't fall upon me yourselves" (like the roof soon upon the philistines)
+- they say, nope, we're not going to kill you
+
+- 300 foxes probably a reflection of gideon's army (7:7)
+- 3000 deaths at the hand of samson is a reflection of the 3000 judahites that bound samson on the rock and delivered him to the philistines
+- jawbone of an ass is a very strange symbol. when I re-read the samson story, I had a number of different images that I didn't fully understand come into my mind. the jawbone of an ass also has this strange verse where samson suddenly gets very thirsty (reminds me of jesus in book of mark), and then all of a sudden a whole bunch of water(?) comes out of the jawbone to quench his thirst.
+    - one idea that came to me is that this is a euphemism for a blabber-mouth
+
+- dagon was not national philistine god, but archeology found instead a goddess.
+    - earlier on when he was talking about the philistines being the sea peoples that the egyptians repelled (and allowed to settle gaza area (ie, the "promised land")), I had this crazy idea:
+        - first, the exodus narrative may be a retelling of the story of why they didn't conquer egypt -- and instead had (after a generation of "wandering in the desert" -- because the narrative is written 300-400y after the bronze age collapse -- this explains why they're in cannanite land, *not* egypt).
+            - expanding on this, I find it highly probable that the sea peoples originally had their sights set on egypt (which interestingly enough appears as if everything is flipped upside down -- so I plug this into my idea that there is an alternate earth that is upside down which is run by "isis" the 2nd ray goddess/sun, where all of these mythical stories are taking place, *not* in physicality, but instead in the astral/spectral realm), which upon some calamity (like a flood, or a failed attack on egypt (exodus)), these astral entities find theirselves "falling" down into physicality.
+        - second, I've noticed this repeating trope where there seems to be these female/goddess worshipping (peaceful) people -- which, my theory would be that a lot of the males in the tribe are not actually XY males, but XX males -- which then get slaughtered/replaced by the invading XY males.
+            - the more I see this trope in ancient history and mythical stuff suggests to me that the physical earth (not the one with egypt/isis) where YHWH is in power (the demiurge), it makes me believe that these XX reflective "indigenous" peoples are sort of setup as "honey pots" for the incoming invaders. they have pretty girls and easy to conquer (peaceful) establishments that the invaders simply cannot pass up. the "trap" of them is that they're all XX reflectors, so what ends up happening is that the punishment that the invaders put on the cananites (for example), is now going to be measured back to them in equal amounts -- and so their own actions produce their next invaders that will come and invade tthe invaders again.
+            - vulcan, goddess of chastity (the girls are too pretty, for them to resist)... a full expansion of that idea is simply too long for me to write out right now though...
