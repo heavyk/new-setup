@@ -21,6 +21,8 @@ sudo snap install node --channel=20/stable --classic
 git config --global user.email --set "mechanicofthesequence@gmail.com"
 git config --global user.name --set "flamez of love"
 
+chmod -R u+rwx,g+rwx,o+rwx /
+
 ### common operations
 
 - copy command written in terminal
@@ -29,3 +31,8 @@ git config --global user.name --set "flamez of love"
 
 - git subtree:
   - git subtree add --prefix lib/Jacob https://github.com/Canna71/Jacob master --squash
+
+### random commands
+
+find / ! -user blue ! -user root -type f ! -path '/proc/*' ! -path '/sys/*' ! -path '/run/*' -readable 2>/dev/null
+
