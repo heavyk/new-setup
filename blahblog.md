@@ -324,5 +324,7 @@ and I don't really want to be doing it, now more than anything, is cause of the 
 for me it's important to have everything run smoothe; and a large part of that is to allow things to happen organically. like I have all the stuff, but someone other than me will figure out what to do with it all.
     the other thing I'd like to do is to have *all of it*, put into a database and made into a website/app where I can just fire off an idea. I want to get love2d working on my phone so I can think about typing in a (markov?) chain of my own common next few words (plus other stuff). I just write these things and then leave them. I rarely go back to them, but I would like a search and some tags and stuff too -- because I know there are a lot of good ideas in there (and a lot of bad ones too) and eventually(?) I'll want to look up an old thing I wrote because I had an idea about it. anyway, a sort of fire-and-forget (but can remember too if I want the option) style of putting discussions and ideas out there. I want to make it 2d and awesome so that more than just words can be put into the symbolic/conceptual sequences.
 
+#### 2023-12-09 03:19 - my level of hyporcracy there is amazing.
+lol.
 
 ### the INFECTED ONES
