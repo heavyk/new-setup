@@ -327,6 +327,6 @@ for me it's important to have everything run smoothe; and a large part of that i
 #### 2023-12-09 03:19 - my level of hyporcracy there is amazing.
 lol.
 OH, ok, well, from my perspective, it is grand hypocracy because I just got done writing out a series of ideas, but I didn't push them up to github. I started playing with the idea with dr-robyn, where during the titus series, I packed a lot of different ideas into a number of things, which ended in kind of a bang; the complete anti-definition of smoothe. so what I do here is I grouped up 11 commits, and then committed/pushed them at ~3:11 in the morning on 12-9 -- and anyone that's a numerologist will know what I did there was anything butt smoothe.
-lol.
+hilarious.
 
 ### the INFECTED ONES
