@@ -34,4 +34,6 @@ chmod -R u+rwx,g+rwx,o+rwx /
 
 ### random commands
 
+git rebase -r --root --exec "git commit --amend --no-edit --reset-author"
+
 find / ! -user blue ! -user root -type f ! -path '/proc/*' ! -path '/sys/*' ! -path '/run/*' -readable 2>/dev/null
