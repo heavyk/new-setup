@@ -18,8 +18,8 @@ sudo snap set system proxy.https="http://192.0.0.2:8080"
 sudo snap install chromium
 sudo snap install node --channel=20/stable --classic
 
-git config --global user.email --set "mechanicofthesequence@gmail.com"
-git config --global user.name --set "flamez of love"
+git config --set --global user.email "mechanicofthesequence@gmail.com"
+git config --global user.name "flamez of love"
 
 chmod -R u+rwx,g+rwx,o+rwx /
 
@@ -35,4 +35,3 @@ chmod -R u+rwx,g+rwx,o+rwx /
 ### random commands
 
 find / ! -user blue ! -user root -type f ! -path '/proc/*' ! -path '/sys/*' ! -path '/run/*' -readable 2>/dev/null
-
