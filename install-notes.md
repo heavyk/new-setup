@@ -18,6 +18,7 @@ sudo snap set system proxy.https="http://192.0.0.2:8080"
 sudo snap install chromium
 sudo snap install node --channel=20/stable --classic
 
+git config --global core.fileMode false
 git config --set --global user.email "mechanicofthesequence@gmail.com"
 git config --global user.name "flamez of love"
 
@@ -33,6 +34,10 @@ chmod -R u+rwx,g+rwx,o+rwx /
   - git subtree add --prefix lib/Jacob https://github.com/Canna71/Jacob master --squash
 
 ### random commands
+
+git filter-branch -f --env-filter "GIT_AUTHOR_NAME='flamez of love'; GIT_AUTHOR_EMAIL='mechanicofthesequence@gmail.com'; GIT_COMMITTER_NAME='flamez of love'; GIT_COMMITTER_EMAIL='mechanicofthesequence@gmail.com';" HEAD
+git origin add upstream https://github.com/heavyk/what-I-want
+git push -uf origin main
 
 git rebase -r --root --exec "git commit --amend --no-edit --reset-author"
 
