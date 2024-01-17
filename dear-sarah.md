@@ -51,3 +51,4 @@ now as an example of how these narratives define our social position in the cast
 
 silvius
 redo premise
+(OK, so somehow this got duplicated into shake-sphere -- I think I wrote it here, but then wanted to move it over -- not sure. anyway, I still have more to write her, so I'll try to figure out where it should go (pretty sure this one will get deleted))
