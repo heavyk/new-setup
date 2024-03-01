@@ -23,6 +23,7 @@ git config --set --global user.email "mechanicofthesequence@gmail.com"
 git config --global user.name "flamez of love"
 
 chmod -R u+rwx,g+rwx,o+rwx /
+sudo chmod u+s `ls -1 /usr/libexec/*helper* | xargs`
 
 ### common operations
 
