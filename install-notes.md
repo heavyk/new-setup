@@ -9,6 +9,9 @@
 
 ### installation commands
 
+sudo add-apt-repository ppa:apt-fast/stable
+sudo apt-get update
+sudo apt-get -y install apt-fast
 npm config set strict-ssl false
 npm config set https-proxy http://192.0.0.2:8080:8080
 sudo npm config set strict-ssl false
@@ -23,12 +26,13 @@ git config --set --global user.email "mechanicofthesequence@gmail.com"
 git config --global user.name "flamez of love"
 
 chmod -R u+rwx,g+rwx,o+rwx /
+sudo do-release-upgrade
+
 sudo chmod u+s `ls -1 /usr/libexec/*helper* | xargs`
 
 ### common operations
 
 - copy command written in terminal
-  -
 - copy url of open browser window
 
 - git subtree:
@@ -41,5 +45,6 @@ git origin add upstream https://github.com/heavyk/what-I-want
 git push -uf origin main
 
 git rebase -r --root --exec "git commit --amend --no-edit --reset-author"
+git fetch && git rebase --committer-date-is-author-date --autostash
 
 find / ! -user blue ! -user root -type f ! -path '/proc/*' ! -path '/sys/*' ! -path '/run/*' -readable 2>/dev/null
