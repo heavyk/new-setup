@@ -25,6 +25,9 @@ git config --global core.fileMode false
 git config --set --global user.email "mechanicofthesequence@gmail.com"
 git config --global user.name "flamez of love"
 
+git config --set user.email "kenny@gatunes.com"
+git config --set user.name "Kenneth Edward Bentley"
+
 chmod -R u+rwx,g+rwx,o+rwx /
 sudo do-release-upgrade
 
@@ -48,3 +51,5 @@ git rebase -r --root --exec "git commit --amend --no-edit --reset-author"
 git fetch && git rebase --committer-date-is-author-date --autostash
 
 find / ! -user blue ! -user root -type f ! -path '/proc/*' ! -path '/sys/*' ! -path '/run/*' -readable 2>/dev/null
+
+git -c rebase.instructionFormat='%s%nexec GIT_COMMITTER_DATE="%cD" GIT_COMMITTER_NAME="%cn" GIT_COMMITTER_EMAIL="%ce"  git commit --amend --no-edit --reset-author --date="%cD"' rebase -i
