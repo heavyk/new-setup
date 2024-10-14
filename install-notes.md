@@ -13,14 +13,14 @@ sudo add-apt-repository ppa:apt-fast/stable
 sudo apt-get update
 sudo apt-get -y install apt-fast
 npm config set strict-ssl false
-npm config set https-proxy http://192.0.0.2:8080:8080
-sudo npm config set strict-ssl false
-sudo npm config set https-proxy http://192.0.0.2:8080
+npm config set https-proxy http://192.0.0.2:8080
+
 sudo snap set system proxy.http="http://192.0.0.2:8080"
 sudo snap set system proxy.https="http://192.0.0.2:8080"
 sudo snap install chromium
 sudo snap install node --channel=20/stable --classic
 
+git config --global core.editor "code --wait"
 git config --global core.fileMode false
 git config --set --global user.email "mechanicofthesequence@gmail.com"
 git config --global user.name "flamez of love"
